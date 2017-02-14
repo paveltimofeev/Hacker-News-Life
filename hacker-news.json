@@ -1,0 +1,7780 @@
+{
+  "points": [
+    {
+      "point": "38",
+      "date": "2017-02-08T12:49:04.023Z",
+      "minutes_from_midnight": "949",
+      "content": "38 minutes ago",
+      "id": 45
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T12:49:58.963Z",
+      "minutes_from_midnight": "949",
+      "content": "38 minutes ago",
+      "id": 46
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T12:50:58.846Z",
+      "minutes_from_midnight": "950",
+      "content": "35 minutes ago",
+      "id": 47
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T12:51:58.351Z",
+      "minutes_from_midnight": "951",
+      "content": "35 minutes ago",
+      "id": 48
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T12:52:58.756Z",
+      "minutes_from_midnight": "952",
+      "content": "36 minutes ago",
+      "id": 49
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T12:53:55.294Z",
+      "minutes_from_midnight": "953",
+
+      "content": "36 minutes ago",
+      "id": 50
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T12:54:55.054Z",
+      "minutes_from_midnight": "954",
+
+      "content": "36 minutes ago",
+      "id": 51
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T12:55:55.023Z",
+      "minutes_from_midnight": "955",
+
+      "content": "36 minutes ago",
+      "id": 52
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T12:56:54.994Z",
+      "minutes_from_midnight": "956",
+
+      "content": "38 minutes ago",
+      "id": 53
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T12:57:54.983Z",
+      "minutes_from_midnight": "957",
+
+      "content": "38 minutes ago",
+      "id": 54
+    },
+    {
+      "point": "40",
+      "date": "2017-02-08T12:58:55.131Z",
+      "minutes_from_midnight": "958",
+
+      "content": "40 minutes ago",
+      "id": 55
+    },
+    {
+      "point": "40",
+      "date": "2017-02-08T12:59:55.021Z",
+      "minutes_from_midnight": "959",
+
+      "content": "40 minutes ago",
+      "id": 56
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T13:00:55.156Z",
+      "minutes_from_midnight": "960",
+
+      "content": "37 minutes ago",
+      "id": 57
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T13:01:55.142Z",
+      "minutes_from_midnight": "961",
+
+      "content": "37 minutes ago",
+      "id": 58
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:02:55.038Z",
+      "minutes_from_midnight": "962",
+
+      "content": "36 minutes ago",
+      "id": 59
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:03:55.052Z",
+      "minutes_from_midnight": "963",
+
+      "content": "36 minutes ago",
+      "id": 60
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:04:55.171Z",
+      "minutes_from_midnight": "964",
+
+      "content": "36 minutes ago",
+      "id": 61
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:05:55.123Z",
+      "minutes_from_midnight": "965",
+
+      "content": "36 minutes ago",
+      "id": 62
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:06:55.234Z",
+      "minutes_from_midnight": "966",
+
+      "content": "33 minutes ago",
+      "id": 63
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:07:55.141Z",
+      "minutes_from_midnight": "967",
+
+      "content": "33 minutes ago",
+      "id": 64
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:08:54.568Z",
+      "minutes_from_midnight": "968",
+
+      "content": "33 minutes ago",
+      "id": 65
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:09:54.980Z",
+      "minutes_from_midnight": "969",
+
+      "content": "35 minutes ago",
+      "id": 66
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:10:55.116Z",
+      "minutes_from_midnight": "970",
+
+      "content": "35 minutes ago",
+      "id": 67
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:11:55.596Z",
+      "minutes_from_midnight": "971",
+
+      "content": "32 minutes ago",
+      "id": 68
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:12:54.998Z",
+      "minutes_from_midnight": "972",
+
+      "content": "32 minutes ago",
+      "id": 69
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T13:13:55.225Z",
+      "minutes_from_midnight": "973",
+
+      "content": "30 minutes ago",
+      "id": 70
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T13:14:55.208Z",
+      "minutes_from_midnight": "974",
+
+      "content": "30 minutes ago",
+      "id": 71
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:15:55.084Z",
+      "minutes_from_midnight": "975",
+
+      "content": "32 minutes ago",
+      "id": 72
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:16:55.211Z",
+      "minutes_from_midnight": "976",
+
+      "content": "32 minutes ago",
+      "id": 73
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:17:55.135Z",
+      "minutes_from_midnight": "977",
+
+      "content": "33 minutes ago",
+      "id": 74
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:18:55.121Z",
+      "minutes_from_midnight": "978",
+
+      "content": "33 minutes ago",
+      "id": 75
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T13:19:55.109Z",
+      "minutes_from_midnight": "979",
+
+      "content": "34 minutes ago",
+      "id": 76
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T13:20:55.201Z",
+      "minutes_from_midnight": "980",
+
+      "content": "34 minutes ago",
+      "id": 77
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:21:55.015Z",
+      "minutes_from_midnight": "981",
+
+      "content": "32 minutes ago",
+      "id": 78
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:22:54.962Z",
+      "minutes_from_midnight": "982",
+
+      "content": "32 minutes ago",
+      "id": 79
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:23:54.982Z",
+      "minutes_from_midnight": "983",
+
+      "content": "33 minutes ago",
+      "id": 80
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T13:24:54.985Z",
+      "minutes_from_midnight": "984",
+
+      "content": "33 minutes ago",
+      "id": 81
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:25:54.616Z",
+      "minutes_from_midnight": "985",
+
+      "content": "35 minutes ago",
+      "id": 82
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:26:55.165Z",
+      "minutes_from_midnight": "986",
+
+      "content": "35 minutes ago",
+      "id": 83
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:27:55.116Z",
+      "minutes_from_midnight": "987",
+
+      "content": "36 minutes ago",
+      "id": 84
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:28:55.087Z",
+      "minutes_from_midnight": "988",
+
+      "content": "36 minutes ago",
+      "id": 85
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:29:55.152Z",
+      "minutes_from_midnight": "989",
+
+      "content": "35 minutes ago",
+      "id": 86
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:30:55.141Z",
+      "minutes_from_midnight": "990",
+
+      "content": "35 minutes ago",
+      "id": 87
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:31:55.300Z",
+      "minutes_from_midnight": "991",
+
+      "content": "32 minutes ago",
+      "id": 88
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:32:54.617Z",
+      "minutes_from_midnight": "992",
+
+      "content": "32 minutes ago",
+      "id": 89
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:33:55.145Z",
+      "minutes_from_midnight": "993",
+
+      "content": "32 minutes ago",
+      "id": 90
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T13:34:55.200Z",
+      "minutes_from_midnight": "994",
+
+      "content": "32 minutes ago",
+      "id": 91
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T13:35:55.204Z",
+      "minutes_from_midnight": "995",
+
+      "content": "34 minutes ago",
+      "id": 92
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T13:36:55.208Z",
+      "minutes_from_midnight": "996",
+
+      "content": "34 minutes ago",
+      "id": 93
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:37:55.010Z",
+      "minutes_from_midnight": "997",
+
+      "content": "35 minutes ago",
+      "id": 94
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T13:38:55.211Z",
+      "minutes_from_midnight": "998",
+
+      "content": "35 minutes ago",
+      "id": 95
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:39:55.122Z",
+      "minutes_from_midnight": "999",
+
+      "content": "36 minutes ago",
+      "id": 96
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:40:54.746Z",
+      "minutes_from_midnight": "1000",
+
+      "content": "36 minutes ago",
+      "id": 97
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T13:41:55.547Z",
+      "minutes_from_midnight": "1001",
+
+      "content": "38 minutes ago",
+      "id": 98
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T13:42:55.120Z",
+      "minutes_from_midnight": "1002",
+
+      "content": "38 minutes ago",
+      "id": 99
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T13:43:55.172Z",
+      "minutes_from_midnight": "1003",
+
+      "content": "37 minutes ago",
+      "id": 100
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T13:44:55.164Z",
+      "minutes_from_midnight": "1004",
+
+      "content": "37 minutes ago",
+      "id": 101
+    },
+    {
+      "point": "39",
+      "date": "2017-02-08T13:45:55.402Z",
+      "minutes_from_midnight": "1005",
+
+      "content": "39 minutes ago",
+      "id": 102
+    },
+    {
+      "point": "39",
+      "date": "2017-02-08T13:46:55.323Z",
+      "minutes_from_midnight": "1006",
+
+      "content": "39 minutes ago",
+      "id": 103
+    },
+    {
+      "point": "41",
+      "date": "2017-02-08T13:47:55.220Z",
+      "minutes_from_midnight": "1007",
+
+      "content": "41 minutes ago",
+      "id": 104
+    },
+    {
+      "point": "41",
+      "date": "2017-02-08T13:48:55.223Z",
+      "minutes_from_midnight": "1008",
+
+      "content": "41 minutes ago",
+      "id": 105
+    },
+    {
+      "point": "40",
+      "date": "2017-02-08T13:49:55.279Z",
+      "minutes_from_midnight": "1009",
+
+      "content": "40 minutes ago",
+      "id": 106
+    },
+    {
+      "point": "40",
+      "date": "2017-02-08T13:50:55.452Z",
+      "minutes_from_midnight": "1010",
+
+      "content": "40 minutes ago",
+      "id": 107
+    },
+    {
+      "point": "40",
+      "date": "2017-02-08T13:51:54.720Z",
+      "minutes_from_midnight": "1011",
+
+      "content": "40 minutes ago",
+      "id": 108
+    },
+    {
+      "point": "40",
+      "date": "2017-02-08T13:52:55.212Z",
+      "minutes_from_midnight": "1012",
+
+      "content": "40 minutes ago",
+      "id": 109
+    },
+    {
+      "point": "41",
+      "date": "2017-02-08T13:53:55.304Z",
+      "minutes_from_midnight": "1013",
+
+      "content": "41 minutes ago",
+      "id": 110
+    },
+    {
+      "point": "41",
+      "date": "2017-02-08T13:54:54.757Z",
+      "minutes_from_midnight": "1014",
+
+      "content": "41 minutes ago",
+      "id": 111
+    },
+    {
+      "point": "43",
+      "date": "2017-02-08T13:55:39.218Z",
+      "date_hm": "16:55",
+      "minutes_from_midnight": "1015",
+
+      "content": "43 minutes ago",
+      "id": 112
+    },
+    {
+      "point": "43",
+      "date": "2017-02-08T13:56:38.972Z",
+      "date_hm": "16:56",
+      "minutes_from_midnight": "1016",
+
+      "content": "43 minutes ago",
+      "id": 113
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T13:57:39.246Z",
+      "date_hm": "16:57",
+      "minutes_from_midnight": "1017",
+
+      "content": "38 minutes ago",
+      "id": 114
+    },
+    {
+      "point": "38",
+      "date": "2017-02-08T13:58:39.071Z",
+      "date_hm": "16:58",
+      "minutes_from_midnight": "1018",
+
+      "content": "38 minutes ago",
+      "id": 115
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T13:59:39.133Z",
+      "date_hm": "16:59",
+      "minutes_from_midnight": "1019",
+
+      "content": "36 minutes ago",
+      "id": 116
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T14:00:39.133Z",
+      "date_hm": "17:0",
+      "minutes_from_midnight": "1020",
+
+      "content": "36 minutes ago",
+      "id": 117
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T14:01:39.133Z",
+      "date_hm": "17:1",
+      "minutes_from_midnight": "1021",
+
+      "content": "35 minutes ago",
+      "id": 118
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T14:02:39.050Z",
+      "date_hm": "17:2",
+      "minutes_from_midnight": "1022",
+
+      "content": "35 minutes ago",
+      "id": 119
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T14:03:25.119Z",
+      "time": "17:03:25",
+      "minutes_from_midnight": "1023",
+
+      "content": "35 minutes ago",
+      "id": 120
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T14:04:25.065Z",
+      "time": "17:04:25",
+      "minutes_from_midnight": "1024",
+
+      "content": "35 minutes ago",
+      "id": 121
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T14:05:25.010Z",
+      "time": "17:05:25",
+      "minutes_from_midnight": "1025",
+
+      "content": "35 minutes ago",
+      "id": 122
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T14:06:25.000Z",
+      "time": "17:06:25",
+      "minutes_from_midnight": "1026",
+
+      "content": "36 minutes ago",
+      "id": 123
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T14:07:25.036Z",
+      "time": "17:07:25",
+      "minutes_from_midnight": "1027",
+
+      "content": "36 minutes ago",
+      "id": 124
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T14:08:24.982Z",
+      "time": "17:08:24",
+      "minutes_from_midnight": "1028",
+
+      "content": "36 minutes ago",
+      "id": 125
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T14:09:05.768Z",
+      "time": "17:09:05",
+      "minutes_from_midnight": "1029",
+
+      "content": "36 minutes ago",
+      "id": 126
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T14:10:05.787Z",
+      "time": "17:10:05",
+      "minutes_from_midnight": "1030",
+
+      "content": "37 minutes ago",
+      "id": 127
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T14:10:19.689Z",
+      "time": "17:10:19",
+      "minutes_from_midnight": "1030",
+
+      "content": "37 minutes ago",
+      "id": 128
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T14:11:19.165Z",
+      "time": "17:11:19",
+      "minutes_from_midnight": "1031",
+
+      "content": "37 minutes ago",
+      "id": 129
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T14:11:38.365Z",
+      "time": "17:11:38",
+      "minutes_from_midnight": "1031",
+
+      "content": "37 minutes ago",
+      "id": 130
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:12:38.301Z",
+      "time": "17:12:38",
+      "minutes_from_midnight": "1032",
+
+      "content": "30 minutes ago",
+      "id": 131
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:13:38.140Z",
+      "time": "17:13:38",
+      "minutes_from_midnight": "1033",
+
+      "content": "30 minutes ago",
+      "id": 132
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T14:14:38.272Z",
+      "time": "17:14:38",
+      "minutes_from_midnight": "1034",
+
+      "content": "32 minutes ago",
+      "id": 133
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T14:15:38.258Z",
+      "time": "17:15:38",
+      "minutes_from_midnight": "1035",
+
+      "content": "32 minutes ago",
+      "id": 134
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T14:16:38.292Z",
+      "time": "17:16:38",
+      "minutes_from_midnight": "1036",
+
+      "content": "33 minutes ago",
+      "id": 135
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T14:17:38.326Z",
+      "time": "17:17:38",
+      "minutes_from_midnight": "1037",
+
+      "content": "33 minutes ago",
+      "id": 136
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T14:18:38.232Z",
+      "time": "17:18:38",
+      "minutes_from_midnight": "1038",
+
+      "content": "33 minutes ago",
+      "id": 137
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T14:19:38.201Z",
+      "time": "17:19:38",
+      "minutes_from_midnight": "1039",
+
+      "content": "33 minutes ago",
+      "id": 138
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:20:38.284Z",
+      "time": "17:20:38",
+      "minutes_from_midnight": "1040",
+
+      "content": "30 minutes ago",
+      "id": 139
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:21:38.095Z",
+      "time": "17:21:38",
+      "minutes_from_midnight": "1041",
+
+      "content": "30 minutes ago",
+      "id": 140
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T14:22:38.801Z",
+      "time": "17:22:38",
+      "minutes_from_midnight": "1042",
+
+      "content": "29 minutes ago",
+      "id": 141
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T14:23:38.241Z",
+      "time": "17:23:38",
+      "minutes_from_midnight": "1043",
+
+      "content": "29 minutes ago",
+      "id": 142
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T14:24:38.140Z",
+      "time": "17:24:38",
+      "minutes_from_midnight": "1044",
+
+      "content": "29 minutes ago",
+      "id": 143
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T14:25:38.309Z",
+      "time": "17:25:38",
+      "minutes_from_midnight": "1045",
+
+      "content": "29 minutes ago",
+      "id": 144
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T14:26:38.107Z",
+      "time": "17:26:38",
+      "minutes_from_midnight": "1046",
+
+      "content": "27 minutes ago",
+      "id": 145
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T14:27:38.158Z",
+      "time": "17:27:38",
+      "minutes_from_midnight": "1047",
+
+      "content": "27 minutes ago",
+      "id": 146
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T14:28:38.175Z",
+      "time": "17:28:38",
+      "minutes_from_midnight": "1048",
+
+      "content": "29 minutes ago",
+      "id": 147
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T14:29:38.210Z",
+      "time": "17:29:38",
+      "minutes_from_midnight": "1049",
+
+      "content": "29 minutes ago",
+      "id": 148
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:30:38.182Z",
+      "time": "17:30:38",
+      "minutes_from_midnight": "1050",
+
+      "content": "30 minutes ago",
+      "id": 149
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:31:38.178Z",
+      "time": "17:31:38",
+      "minutes_from_midnight": "1051",
+
+      "content": "30 minutes ago",
+      "id": 150
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T14:32:38.145Z",
+      "time": "17:32:38",
+      "minutes_from_midnight": "1052",
+
+      "content": "32 minutes ago",
+      "id": 151
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T14:33:39.408Z",
+      "time": "17:33:39",
+      "minutes_from_midnight": "1053",
+
+      "content": "32 minutes ago",
+      "id": 152
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T14:34:37.725Z",
+      "time": "17:34:37",
+      "minutes_from_midnight": "1054",
+
+      "content": "32 minutes ago",
+      "id": 153
+    },
+    {
+      "point": "32",
+      "date": "2017-02-08T14:35:38.221Z",
+      "time": "17:35:38",
+      "minutes_from_midnight": "1055",
+
+      "content": "32 minutes ago",
+      "id": 154
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:36:38.217Z",
+      "time": "17:36:38",
+      "minutes_from_midnight": "1056",
+
+      "content": "30 minutes ago",
+      "id": 155
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T14:37:38.157Z",
+      "time": "17:37:38",
+      "minutes_from_midnight": "1057",
+
+      "content": "30 minutes ago",
+      "id": 156
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T14:38:38.229Z",
+      "time": "17:38:38",
+      "minutes_from_midnight": "1058",
+
+      "content": "27 minutes ago",
+      "id": 157
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T14:39:38.244Z",
+      "time": "17:39:38",
+      "minutes_from_midnight": "1059",
+
+      "content": "27 minutes ago",
+      "id": 158
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T14:40:38.116Z",
+      "time": "17:40:38",
+      "minutes_from_midnight": "1060",
+
+      "content": "18 minutes ago",
+      "id": 159
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T14:41:38.288Z",
+      "time": "17:41:38",
+      "minutes_from_midnight": "1061",
+
+      "content": "18 minutes ago",
+      "id": 160
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T14:42:38.262Z",
+      "time": "17:42:38",
+      "minutes_from_midnight": "1062",
+
+      "content": "17 minutes ago",
+      "id": 161
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T14:43:38.192Z",
+      "time": "17:43:38",
+      "minutes_from_midnight": "1063",
+
+      "content": "17 minutes ago",
+      "id": 162
+    },
+    {
+      "point": "10",
+      "date": "2017-02-08T14:44:38.220Z",
+      "time": "17:44:38",
+      "minutes_from_midnight": "1064",
+
+      "content": "10 minutes ago",
+      "id": 163
+    },
+    {
+      "point": "10",
+      "date": "2017-02-08T14:45:38.185Z",
+      "time": "17:45:38",
+      "minutes_from_midnight": "1065",
+
+      "content": "10 minutes ago",
+      "id": 164
+    },
+    {
+      "point": "10",
+      "date": "2017-02-08T14:46:38.193Z",
+      "time": "17:46:38",
+      "minutes_from_midnight": "1066",
+
+      "content": "10 minutes ago",
+      "id": 165
+    },
+    {
+      "point": "10",
+      "date": "2017-02-08T14:47:38.256Z",
+      "time": "17:47:38",
+      "minutes_from_midnight": "1067",
+
+      "content": "10 minutes ago",
+      "id": 166
+    },
+    {
+      "point": "11",
+      "date": "2017-02-08T14:48:38.182Z",
+      "time": "17:48:38",
+      "minutes_from_midnight": "1068",
+
+      "content": "11 minutes ago",
+      "id": 167
+    },
+    {
+      "point": "11",
+      "date": "2017-02-08T14:49:38.221Z",
+      "time": "17:49:38",
+      "minutes_from_midnight": "1069",
+
+      "content": "11 minutes ago",
+      "id": 168
+    },
+    {
+      "point": "13",
+      "date": "2017-02-08T14:50:38.107Z",
+      "time": "17:50:38",
+      "minutes_from_midnight": "1070",
+
+      "content": "13 minutes ago",
+      "id": 169
+    },
+    {
+      "point": "13",
+      "date": "2017-02-08T14:51:38.260Z",
+      "time": "17:51:38",
+      "minutes_from_midnight": "1071",
+
+      "content": "13 minutes ago",
+      "id": 170
+    },
+    {
+      "point": "15",
+      "date": "2017-02-08T14:52:38.207Z",
+      "time": "17:52:38",
+      "minutes_from_midnight": "1072",
+
+      "content": "15 minutes ago",
+      "id": 171
+    },
+    {
+      "point": "15",
+      "date": "2017-02-08T14:53:38.151Z",
+      "time": "17:53:38",
+      "minutes_from_midnight": "1073",
+
+      "content": "15 minutes ago",
+      "id": 172
+    },
+    {
+      "point": "16",
+      "date": "2017-02-08T14:54:38.226Z",
+      "time": "17:54:38",
+      "minutes_from_midnight": "1074",
+
+      "content": "16 minutes ago",
+      "id": 173
+    },
+    {
+      "point": "16",
+      "date": "2017-02-08T14:55:38.256Z",
+      "time": "17:55:38",
+      "minutes_from_midnight": "1075",
+
+      "content": "16 minutes ago",
+      "id": 174
+    },
+    {
+      "point": "16",
+      "date": "2017-02-08T14:56:38.070Z",
+      "time": "17:56:38",
+      "minutes_from_midnight": "1076",
+
+      "content": "16 minutes ago",
+      "id": 175
+    },
+    {
+      "point": "16",
+      "date": "2017-02-08T14:57:39.263Z",
+      "time": "17:57:39",
+      "minutes_from_midnight": "1077",
+
+      "content": "16 minutes ago",
+      "id": 176
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T14:58:37.682Z",
+      "time": "17:58:37",
+      "minutes_from_midnight": "1078",
+
+      "content": "18 minutes ago",
+      "id": 177
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T14:59:38.282Z",
+      "time": "17:59:38",
+      "minutes_from_midnight": "1079",
+
+      "content": "18 minutes ago",
+      "id": 178
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T15:00:38.553Z",
+      "time": "18:00:38",
+      "minutes_from_midnight": "1080",
+
+      "content": "19 minutes ago",
+      "id": 179
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T15:01:38.445Z",
+      "time": "18:01:38",
+      "minutes_from_midnight": "1081",
+
+      "content": "19 minutes ago",
+      "id": 180
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T15:02:38.952Z",
+      "time": "18:02:38",
+      "minutes_from_midnight": "1082",
+
+      "content": "20 minutes ago",
+      "id": 181
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T15:03:38.266Z",
+      "time": "18:03:38",
+      "minutes_from_midnight": "1083",
+
+      "content": "20 minutes ago",
+      "id": 182
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T15:04:38.250Z",
+      "time": "18:04:38",
+      "minutes_from_midnight": "1084",
+
+      "content": "21 minutes ago",
+      "id": 183
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T15:05:38.431Z",
+      "time": "18:05:38",
+      "minutes_from_midnight": "1085",
+
+      "content": "21 minutes ago",
+      "id": 184
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:06:38.161Z",
+      "time": "18:06:38",
+      "minutes_from_midnight": "1086",
+
+      "content": "22 minutes ago",
+      "id": 185
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:07:38.160Z",
+      "time": "18:07:38",
+      "minutes_from_midnight": "1087",
+
+      "content": "22 minutes ago",
+      "id": 186
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:08:38.082Z",
+      "time": "18:08:38",
+      "minutes_from_midnight": "1088",
+
+      "content": "23 minutes ago",
+      "id": 187
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:09:38.290Z",
+      "time": "18:09:38",
+      "minutes_from_midnight": "1089",
+
+      "content": "23 minutes ago",
+      "id": 188
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:10:38.252Z",
+      "time": "18:10:38",
+      "minutes_from_midnight": "1090",
+
+      "content": "22 minutes ago",
+      "id": 189
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:11:38.056Z",
+      "time": "18:11:38",
+      "minutes_from_midnight": "1091",
+
+      "content": "22 minutes ago",
+      "id": 190
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:12:38.283Z",
+      "time": "18:12:38",
+      "minutes_from_midnight": "1092",
+
+      "content": "22 minutes ago",
+      "id": 191
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:13:38.249Z",
+      "time": "18:13:38",
+      "minutes_from_midnight": "1093",
+
+      "content": "22 minutes ago",
+      "id": 192
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:14:38.238Z",
+      "time": "18:14:38",
+      "minutes_from_midnight": "1094",
+
+      "content": "22 minutes ago",
+      "id": 193
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T15:15:39.192Z",
+      "time": "18:15:39",
+      "minutes_from_midnight": "1095",
+
+      "content": "20 minutes ago",
+      "id": 194
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T15:16:38.232Z",
+      "time": "18:16:38",
+      "minutes_from_midnight": "1096",
+
+      "content": "20 minutes ago",
+      "id": 195
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:17:54.636Z",
+      "time": "18:17:54",
+      "minutes_from_midnight": "1097",
+
+      "content": "22 minutes ago",
+      "id": 196
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:18:38.905Z",
+      "time": "18:18:38",
+      "minutes_from_midnight": "1098",
+
+      "content": "22 minutes ago",
+      "id": 197
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:19:38.374Z",
+      "time": "18:19:38",
+      "minutes_from_midnight": "1099",
+
+      "content": "23 minutes ago",
+      "id": 198
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:20:39.654Z",
+      "time": "18:20:39",
+      "minutes_from_midnight": "1100",
+
+      "content": "23 minutes ago",
+      "id": 199
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:21:39.438Z",
+      "time": "18:21:39",
+      "minutes_from_midnight": "1101",
+
+      "content": "23 minutes ago",
+      "id": 200
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:22:44.539Z",
+      "time": "18:22:44",
+      "minutes_from_midnight": "1102",
+
+      "content": "23 minutes ago",
+      "id": 201
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T15:23:39.504Z",
+      "time": "18:23:39",
+      "minutes_from_midnight": "1103",
+
+      "content": "24 minutes ago",
+      "id": 202
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T15:24:38.314Z",
+      "time": "18:24:38",
+      "minutes_from_midnight": "1104",
+
+      "content": "24 minutes ago",
+      "id": 203
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:25:38.339Z",
+      "time": "18:25:38",
+      "minutes_from_midnight": "1105",
+
+      "content": "23 minutes ago",
+      "id": 204
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:26:38.259Z",
+      "time": "18:26:38",
+      "minutes_from_midnight": "1106",
+
+      "content": "23 minutes ago",
+      "id": 205
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T15:27:38.304Z",
+      "time": "18:27:38",
+      "minutes_from_midnight": "1107",
+
+      "content": "25 minutes ago",
+      "id": 206
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T15:28:39.224Z",
+      "time": "18:28:39",
+      "minutes_from_midnight": "1108",
+
+      "content": "25 minutes ago",
+      "id": 207
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:29:39.245Z",
+      "time": "18:29:39",
+      "minutes_from_midnight": "1109",
+
+      "content": "26 minutes ago",
+      "id": 208
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:30:52.997Z",
+      "time": "18:30:52",
+      "minutes_from_midnight": "1110",
+
+      "content": "26 minutes ago",
+      "id": 209
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:31:39.247Z",
+      "time": "18:31:39",
+      "minutes_from_midnight": "1111",
+
+      "content": "26 minutes ago",
+      "id": 210
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:32:37.758Z",
+      "time": "18:32:37",
+      "minutes_from_midnight": "1112",
+
+      "content": "26 minutes ago",
+      "id": 211
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T15:33:43.816Z",
+      "time": "18:33:43",
+      "minutes_from_midnight": "1113",
+
+      "content": "25 minutes ago",
+      "id": 212
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T15:34:38.131Z",
+      "time": "18:34:38",
+      "minutes_from_midnight": "1114",
+
+      "content": "25 minutes ago",
+      "id": 213
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:35:38.449Z",
+      "time": "18:35:38",
+      "minutes_from_midnight": "1115",
+
+      "content": "26 minutes ago",
+      "id": 214
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:36:38.464Z",
+      "time": "18:36:38",
+      "minutes_from_midnight": "1116",
+
+      "content": "26 minutes ago",
+      "id": 215
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T15:37:38.253Z",
+      "time": "18:37:38",
+      "minutes_from_midnight": "1117",
+
+      "content": "27 minutes ago",
+      "id": 216
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T15:38:39.423Z",
+      "time": "18:38:39",
+      "minutes_from_midnight": "1118",
+
+      "content": "27 minutes ago",
+      "id": 217
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T15:39:38.950Z",
+      "time": "18:39:38",
+      "minutes_from_midnight": "1119",
+
+      "content": "29 minutes ago",
+      "id": 218
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T15:40:38.160Z",
+      "time": "18:40:38",
+      "minutes_from_midnight": "1120",
+
+      "content": "29 minutes ago",
+      "id": 219
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T15:41:42.751Z",
+      "time": "18:41:42",
+      "minutes_from_midnight": "1121",
+
+      "content": "27 minutes ago",
+      "id": 220
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T15:42:39.197Z",
+      "time": "18:42:39",
+      "minutes_from_midnight": "1122",
+
+      "content": "27 minutes ago",
+      "id": 221
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T15:43:39.910Z",
+      "time": "18:43:39",
+      "minutes_from_midnight": "1123",
+
+      "content": "28 minutes ago",
+      "id": 222
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T15:44:38.372Z",
+      "time": "18:44:38",
+      "minutes_from_midnight": "1124",
+
+      "content": "28 minutes ago",
+      "id": 223
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T15:45:39.606Z",
+      "time": "18:45:39",
+      "minutes_from_midnight": "1125",
+
+      "content": "25 minutes ago",
+      "id": 224
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T15:46:38.237Z",
+      "time": "18:46:38",
+      "minutes_from_midnight": "1126",
+
+      "content": "25 minutes ago",
+      "id": 225
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:47:38.216Z",
+      "time": "18:47:38",
+      "minutes_from_midnight": "1127",
+
+      "content": "26 minutes ago",
+      "id": 226
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T15:48:38.141Z",
+      "time": "18:48:38",
+      "minutes_from_midnight": "1128",
+
+      "content": "26 minutes ago",
+      "id": 227
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:49:38.397Z",
+      "time": "18:49:38",
+      "minutes_from_midnight": "1129",
+
+      "content": "23 minutes ago",
+      "id": 228
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:50:38.568Z",
+      "time": "18:50:38",
+      "minutes_from_midnight": "1130",
+
+      "content": "23 minutes ago",
+      "id": 229
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:51:38.314Z",
+      "time": "18:51:38",
+      "minutes_from_midnight": "1131",
+
+      "content": "23 minutes ago",
+      "id": 230
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:52:38.229Z",
+      "time": "18:52:38",
+      "minutes_from_midnight": "1132",
+
+      "content": "23 minutes ago",
+      "id": 231
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:53:38.234Z",
+      "time": "18:53:38",
+      "minutes_from_midnight": "1133",
+
+      "content": "23 minutes ago",
+      "id": 232
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:54:38.190Z",
+      "time": "18:54:38",
+      "minutes_from_midnight": "1134",
+
+      "content": "23 minutes ago",
+      "id": 233
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:55:37.853Z",
+      "time": "18:55:37",
+      "minutes_from_midnight": "1135",
+
+      "content": "23 minutes ago",
+      "id": 234
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T15:56:38.154Z",
+      "time": "18:56:38",
+      "minutes_from_midnight": "1136",
+
+      "content": "23 minutes ago",
+      "id": 235
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:57:38.149Z",
+      "time": "18:57:38",
+      "minutes_from_midnight": "1137",
+
+      "content": "22 minutes ago",
+      "id": 236
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T15:58:38.125Z",
+      "time": "18:58:38",
+      "minutes_from_midnight": "1138",
+
+      "content": "22 minutes ago",
+      "id": 237
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T15:59:38.240Z",
+      "time": "18:59:38",
+      "minutes_from_midnight": "1139",
+
+      "content": "19 minutes ago",
+      "id": 238
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:00:38.127Z",
+      "time": "19:00:38",
+      "minutes_from_midnight": "1140",
+
+      "content": "19 minutes ago",
+      "id": 239
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:01:38.485Z",
+      "time": "19:01:38",
+      "minutes_from_midnight": "1141",
+
+      "content": "19 minutes ago",
+      "id": 240
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:02:38.488Z",
+      "time": "19:02:38",
+      "minutes_from_midnight": "1142",
+
+      "content": "19 minutes ago",
+      "id": 241
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:03:37.981Z",
+      "time": "19:03:37",
+      "minutes_from_midnight": "1143",
+
+      "content": "18 minutes ago",
+      "id": 242
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:04:38.596Z",
+      "time": "19:04:38",
+      "minutes_from_midnight": "1144",
+
+      "content": "18 minutes ago",
+      "id": 243
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:05:38.788Z",
+      "time": "19:05:38",
+      "minutes_from_midnight": "1145",
+
+      "content": "18 minutes ago",
+      "id": 244
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:06:38.676Z",
+      "time": "19:06:38",
+      "minutes_from_midnight": "1146",
+
+      "content": "18 minutes ago",
+      "id": 245
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T16:07:38.633Z",
+      "time": "19:07:38",
+      "minutes_from_midnight": "1147",
+
+      "content": "17 minutes ago",
+      "id": 246
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T16:08:38.638Z",
+      "time": "19:08:38",
+      "minutes_from_midnight": "1148",
+
+      "content": "17 minutes ago",
+      "id": 247
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:09:38.560Z",
+      "time": "19:09:38",
+      "minutes_from_midnight": "1149",
+
+      "content": "18 minutes ago",
+      "id": 248
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:10:38.800Z",
+      "time": "19:10:38",
+      "minutes_from_midnight": "1150",
+
+      "content": "18 minutes ago",
+      "id": 249
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:11:38.818Z",
+      "time": "19:11:38",
+      "minutes_from_midnight": "1151",
+
+      "content": "21 minutes ago",
+      "id": 250
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:12:39.030Z",
+      "time": "19:12:39",
+      "minutes_from_midnight": "1152",
+
+      "content": "21 minutes ago",
+      "id": 251
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:13:38.718Z",
+      "time": "19:13:38",
+      "minutes_from_midnight": "1153",
+
+      "content": "22 minutes ago",
+      "id": 252
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:14:38.742Z",
+      "time": "19:14:38",
+      "minutes_from_midnight": "1154",
+
+      "content": "22 minutes ago",
+      "id": 253
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:15:39.400Z",
+      "time": "19:15:39",
+      "minutes_from_midnight": "1155",
+
+      "content": "21 minutes ago",
+      "id": 254
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:16:39.010Z",
+      "time": "19:16:39",
+      "minutes_from_midnight": "1156",
+
+      "content": "21 minutes ago",
+      "id": 255
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:17:39.719Z",
+      "time": "19:17:39",
+      "minutes_from_midnight": "1157",
+
+      "content": "22 minutes ago",
+      "id": 256
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:18:38.776Z",
+      "time": "19:18:38",
+      "minutes_from_midnight": "1158",
+
+      "content": "22 minutes ago",
+      "id": 257
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:19:38.740Z",
+      "time": "19:19:38",
+      "minutes_from_midnight": "1159",
+
+      "content": "22 minutes ago",
+      "id": 258
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T16:20:38.647Z",
+      "time": "19:20:38",
+      "minutes_from_midnight": "1160",
+
+      "content": "24 minutes ago",
+      "id": 259
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T16:21:38.877Z",
+      "time": "19:21:38",
+      "minutes_from_midnight": "1161",
+
+      "content": "24 minutes ago",
+      "id": 260
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:22:38.748Z",
+      "time": "19:22:38",
+      "minutes_from_midnight": "1162",
+
+      "content": "23 minutes ago",
+      "id": 261
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:23:38.594Z",
+      "time": "19:23:38",
+      "minutes_from_midnight": "1163",
+
+      "content": "23 minutes ago",
+      "id": 262
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:24:38.792Z",
+      "time": "19:24:38",
+      "minutes_from_midnight": "1164",
+
+      "content": "23 minutes ago",
+      "id": 263
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:25:38.879Z",
+      "time": "19:25:38",
+      "minutes_from_midnight": "1165",
+
+      "content": "23 minutes ago",
+      "id": 264
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:26:39.131Z",
+      "time": "19:26:39",
+      "minutes_from_midnight": "1166",
+
+      "content": "23 minutes ago",
+      "id": 265
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:27:39.429Z",
+      "time": "19:27:39",
+      "minutes_from_midnight": "1167",
+
+      "content": "23 minutes ago",
+      "id": 266
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:28:39.019Z",
+      "time": "19:28:39",
+      "minutes_from_midnight": "1168",
+
+      "content": "22 minutes ago",
+      "id": 267
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T16:29:38.901Z",
+      "time": "19:29:38",
+      "minutes_from_midnight": "1169",
+
+      "content": "22 minutes ago",
+      "id": 268
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:30:38.436Z",
+      "time": "19:30:38",
+      "minutes_from_midnight": "1170",
+
+      "content": "23 minutes ago",
+      "id": 269
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:31:40.075Z",
+      "time": "19:31:40",
+      "minutes_from_midnight": "1171",
+
+      "content": "23 minutes ago",
+      "id": 270
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:32:43.736Z",
+      "time": "19:32:43",
+      "minutes_from_midnight": "1172",
+
+      "content": "19 minutes ago",
+      "id": 271
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:33:38.798Z",
+      "time": "19:33:38",
+      "minutes_from_midnight": "1173",
+
+      "content": "19 minutes ago",
+      "id": 272
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:34:39.704Z",
+      "time": "19:34:39",
+      "minutes_from_midnight": "1174",
+
+      "content": "18 minutes ago",
+      "id": 273
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:35:38.592Z",
+      "time": "19:35:38",
+      "minutes_from_midnight": "1175",
+
+      "content": "18 minutes ago",
+      "id": 274
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:36:40.979Z",
+      "time": "19:36:40",
+      "minutes_from_midnight": "1176",
+
+      "content": "18 minutes ago",
+      "id": 275
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:37:38.267Z",
+      "time": "19:37:38",
+      "minutes_from_midnight": "1177",
+
+      "content": "18 minutes ago",
+      "id": 276
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:38:40.773Z",
+      "time": "19:38:40",
+      "minutes_from_midnight": "1178",
+
+      "content": "18 minutes ago",
+      "id": 277
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T16:39:39.068Z",
+      "time": "19:39:39",
+      "minutes_from_midnight": "1179",
+
+      "content": "18 minutes ago",
+      "id": 278
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:40:39.075Z",
+      "time": "19:40:39",
+      "minutes_from_midnight": "1180",
+
+      "content": "19 minutes ago",
+      "id": 279
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T16:41:39.061Z",
+      "time": "19:41:39",
+      "minutes_from_midnight": "1181",
+
+      "content": "19 minutes ago",
+      "id": 280
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:42:42.440Z",
+      "time": "19:42:42",
+      "minutes_from_midnight": "1182",
+
+      "content": "21 minutes ago",
+      "id": 281
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:43:38.957Z",
+      "time": "19:43:38",
+      "minutes_from_midnight": "1183",
+
+      "content": "21 minutes ago",
+      "id": 282
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T16:44:39.865Z",
+      "time": "19:44:39",
+      "minutes_from_midnight": "1184",
+
+      "content": "20 minutes ago",
+      "id": 283
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T16:45:38.843Z",
+      "time": "19:45:38",
+      "minutes_from_midnight": "1185",
+
+      "content": "20 minutes ago",
+      "id": 284
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T16:46:39.904Z",
+      "time": "19:46:39",
+      "minutes_from_midnight": "1186",
+
+      "content": "20 minutes ago",
+      "id": 285
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T16:47:38.823Z",
+      "time": "19:47:38",
+      "minutes_from_midnight": "1187",
+
+      "content": "20 minutes ago",
+      "id": 286
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:48:38.899Z",
+      "time": "19:48:38",
+      "minutes_from_midnight": "1188",
+
+      "content": "21 minutes ago",
+      "id": 287
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T16:49:38.889Z",
+      "time": "19:49:38",
+      "minutes_from_midnight": "1189",
+
+      "content": "21 minutes ago",
+      "id": 288
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:50:41.244Z",
+      "time": "19:50:41",
+      "minutes_from_midnight": "1190",
+
+      "content": "23 minutes ago",
+      "id": 289
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T16:51:43.806Z",
+      "time": "19:51:43",
+      "minutes_from_midnight": "1191",
+
+      "content": "23 minutes ago",
+      "id": 290
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T16:52:38.890Z",
+      "time": "19:52:38",
+      "minutes_from_midnight": "1192",
+
+      "content": "25 minutes ago",
+      "id": 291
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T16:53:38.970Z",
+      "time": "19:53:38",
+      "minutes_from_midnight": "1193",
+
+      "content": "25 minutes ago",
+      "id": 292
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T16:54:39.958Z",
+      "time": "19:54:39",
+      "minutes_from_midnight": "1194",
+
+      "content": "26 minutes ago",
+      "id": 293
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T16:55:39.350Z",
+      "time": "19:55:39",
+      "minutes_from_midnight": "1195",
+
+      "content": "26 minutes ago",
+      "id": 294
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T16:56:40.129Z",
+      "time": "19:56:40",
+      "minutes_from_midnight": "1196",
+
+      "content": "28 minutes ago",
+      "id": 295
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T16:57:38.952Z",
+      "time": "19:57:38",
+      "minutes_from_midnight": "1197",
+
+      "content": "28 minutes ago",
+      "id": 296
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T16:58:38.923Z",
+      "time": "19:58:38",
+      "minutes_from_midnight": "1198",
+
+      "content": "27 minutes ago",
+      "id": 297
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T16:59:41.514Z",
+      "time": "19:59:41",
+      "minutes_from_midnight": "1199",
+
+      "content": "27 minutes ago",
+      "id": 298
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:00:38.348Z",
+      "time": "20:00:38",
+      "minutes_from_midnight": "1200",
+
+      "content": "25 minutes ago",
+      "id": 299
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:01:39.067Z",
+      "time": "20:01:39",
+      "minutes_from_midnight": "1201",
+
+      "content": "25 minutes ago",
+      "id": 300
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:02:38.811Z",
+      "time": "20:02:38",
+      "minutes_from_midnight": "1202",
+
+      "content": "26 minutes ago",
+      "id": 301
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:03:38.756Z",
+      "time": "20:03:38",
+      "minutes_from_midnight": "1203",
+
+      "content": "26 minutes ago",
+      "id": 302
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T17:04:38.772Z",
+      "time": "20:04:38",
+      "minutes_from_midnight": "1204",
+
+      "content": "28 minutes ago",
+      "id": 303
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T17:05:38.959Z",
+      "time": "20:05:38",
+      "minutes_from_midnight": "1205",
+
+      "content": "28 minutes ago",
+      "id": 304
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:06:38.482Z",
+      "time": "20:06:38",
+      "minutes_from_midnight": "1206",
+
+      "content": "26 minutes ago",
+      "id": 305
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:07:38.870Z",
+      "time": "20:07:38",
+      "minutes_from_midnight": "1207",
+
+      "content": "26 minutes ago",
+      "id": 306
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:08:38.829Z",
+      "time": "20:08:38",
+      "minutes_from_midnight": "1208",
+
+      "content": "25 minutes ago",
+      "id": 307
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:09:39.024Z",
+      "time": "20:09:39",
+      "minutes_from_midnight": "1209",
+
+      "content": "25 minutes ago",
+      "id": 308
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:10:39.257Z",
+      "time": "20:10:39",
+      "minutes_from_midnight": "1210",
+
+      "content": "24 minutes ago",
+      "id": 309
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:11:38.799Z",
+      "time": "20:11:38",
+      "minutes_from_midnight": "1211",
+
+      "content": "24 minutes ago",
+      "id": 310
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:12:38.501Z",
+      "time": "20:12:38",
+      "minutes_from_midnight": "1212",
+
+      "content": "25 minutes ago",
+      "id": 311
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:13:38.980Z",
+      "time": "20:13:38",
+      "minutes_from_midnight": "1213",
+
+      "content": "25 minutes ago",
+      "id": 312
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:14:38.885Z",
+      "time": "20:14:38",
+      "minutes_from_midnight": "1214",
+
+      "content": "26 minutes ago",
+      "id": 313
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:15:38.954Z",
+      "time": "20:15:38",
+      "minutes_from_midnight": "1215",
+
+      "content": "26 minutes ago",
+      "id": 314
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:16:38.931Z",
+      "time": "20:16:38",
+      "minutes_from_midnight": "1216",
+
+      "content": "23 minutes ago",
+      "id": 315
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:17:39.194Z",
+      "time": "20:17:39",
+      "minutes_from_midnight": "1217",
+
+      "content": "23 minutes ago",
+      "id": 316
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T17:18:38.969Z",
+      "time": "20:18:38",
+      "minutes_from_midnight": "1218",
+
+      "content": "22 minutes ago",
+      "id": 317
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T17:19:38.961Z",
+      "time": "20:19:38",
+      "minutes_from_midnight": "1219",
+
+      "content": "22 minutes ago",
+      "id": 318
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:20:38.899Z",
+      "time": "20:20:38",
+      "minutes_from_midnight": "1220",
+
+      "content": "23 minutes ago",
+      "id": 319
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:21:38.944Z",
+      "time": "20:21:38",
+      "minutes_from_midnight": "1221",
+
+      "content": "23 minutes ago",
+      "id": 320
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:22:39.389Z",
+      "time": "20:22:39",
+      "minutes_from_midnight": "1222",
+
+      "content": "23 minutes ago",
+      "id": 321
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:23:40.016Z",
+      "time": "20:23:40",
+      "minutes_from_midnight": "1223",
+
+      "content": "23 minutes ago",
+      "id": 322
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:24:38.996Z",
+      "time": "20:24:38",
+      "minutes_from_midnight": "1224",
+
+      "content": "23 minutes ago",
+      "id": 323
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:25:38.907Z",
+      "time": "20:25:38",
+      "minutes_from_midnight": "1225",
+
+      "content": "23 minutes ago",
+      "id": 324
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T17:26:40.815Z",
+      "time": "20:26:40",
+      "minutes_from_midnight": "1226",
+
+      "content": "21 minutes ago",
+      "id": 325
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T17:27:39.005Z",
+      "time": "20:27:39",
+      "minutes_from_midnight": "1227",
+
+      "content": "21 minutes ago",
+      "id": 326
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:28:39.120Z",
+      "time": "20:28:39",
+      "minutes_from_midnight": "1228",
+
+      "content": "23 minutes ago",
+      "id": 327
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:29:40.053Z",
+      "time": "20:29:40",
+      "minutes_from_midnight": "1229",
+
+      "content": "23 minutes ago",
+      "id": 328
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:30:39.004Z",
+      "time": "20:30:39",
+      "minutes_from_midnight": "1230",
+
+      "content": "24 minutes ago",
+      "id": 329
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:31:39.722Z",
+      "time": "20:31:39",
+      "minutes_from_midnight": "1231",
+
+      "content": "24 minutes ago",
+      "id": 330
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T17:32:38.946Z",
+      "time": "20:32:38",
+      "minutes_from_midnight": "1232",
+
+      "content": "22 minutes ago",
+      "id": 331
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T17:33:39.952Z",
+      "time": "20:33:39",
+      "minutes_from_midnight": "1233",
+
+      "content": "22 minutes ago",
+      "id": 332
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:34:39.217Z",
+      "time": "20:34:39",
+      "minutes_from_midnight": "1234",
+
+      "content": "24 minutes ago",
+      "id": 333
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:35:38.961Z",
+      "time": "20:35:38",
+      "minutes_from_midnight": "1235",
+
+      "content": "24 minutes ago",
+      "id": 334
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:36:39.063Z",
+      "time": "20:36:39",
+      "minutes_from_midnight": "1236",
+
+      "content": "24 minutes ago",
+      "id": 335
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:37:39.071Z",
+      "time": "20:37:39",
+      "minutes_from_midnight": "1237",
+
+      "content": "26 minutes ago",
+      "id": 336
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:38:38.906Z",
+      "time": "20:38:38",
+      "minutes_from_midnight": "1238",
+
+      "content": "26 minutes ago",
+      "id": 337
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:39:39.140Z",
+      "time": "20:39:39",
+      "minutes_from_midnight": "1239",
+
+      "content": "24 minutes ago",
+      "id": 338
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:40:38.935Z",
+      "time": "20:40:38",
+      "minutes_from_midnight": "1240",
+
+      "content": "24 minutes ago",
+      "id": 339
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:41:38.398Z",
+      "time": "20:41:38",
+      "minutes_from_midnight": "1241",
+
+      "content": "23 minutes ago",
+      "id": 340
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:42:39.047Z",
+      "time": "20:42:39",
+      "minutes_from_midnight": "1242",
+
+      "content": "23 minutes ago",
+      "id": 341
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T17:43:38.897Z",
+      "time": "20:43:38",
+      "minutes_from_midnight": "1243",
+
+      "content": "22 minutes ago",
+      "id": 342
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T17:44:38.952Z",
+      "time": "20:44:38",
+      "minutes_from_midnight": "1244",
+
+      "content": "22 minutes ago",
+      "id": 343
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T17:45:38.953Z",
+      "time": "20:45:38",
+      "minutes_from_midnight": "1245",
+
+      "content": "21 minutes ago",
+      "id": 344
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T17:46:39.031Z",
+      "time": "20:46:39",
+      "minutes_from_midnight": "1246",
+
+      "content": "21 minutes ago",
+      "id": 345
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:47:38.853Z",
+      "time": "20:47:38",
+      "minutes_from_midnight": "1247",
+
+      "content": "23 minutes ago",
+      "id": 346
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T17:48:38.850Z",
+      "time": "20:48:38",
+      "minutes_from_midnight": "1248",
+
+      "content": "23 minutes ago",
+      "id": 347
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:49:39.023Z",
+      "time": "20:49:39",
+      "minutes_from_midnight": "1249",
+
+      "content": "24 minutes ago",
+      "id": 348
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T17:50:39.011Z",
+      "time": "20:50:39",
+      "minutes_from_midnight": "1250",
+
+      "content": "24 minutes ago",
+      "id": 349
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:51:38.895Z",
+      "time": "20:51:38",
+      "minutes_from_midnight": "1251",
+
+      "content": "26 minutes ago",
+      "id": 350
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:52:38.948Z",
+      "time": "20:52:38",
+      "minutes_from_midnight": "1252",
+
+      "content": "26 minutes ago",
+      "id": 351
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:53:38.942Z",
+      "time": "20:53:38",
+      "minutes_from_midnight": "1253",
+
+      "content": "26 minutes ago",
+      "id": 352
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:54:39.054Z",
+      "time": "20:54:39",
+      "minutes_from_midnight": "1254",
+
+      "content": "26 minutes ago",
+      "id": 353
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:55:39.010Z",
+      "time": "20:55:39",
+      "minutes_from_midnight": "1255",
+
+      "content": "25 minutes ago",
+      "id": 354
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T17:56:38.882Z",
+      "time": "20:56:38",
+      "minutes_from_midnight": "1256",
+
+      "content": "25 minutes ago",
+      "id": 355
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:57:38.929Z",
+      "time": "20:57:38",
+      "minutes_from_midnight": "1257",
+
+      "content": "26 minutes ago",
+      "id": 356
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T17:58:38.870Z",
+      "time": "20:58:38",
+      "minutes_from_midnight": "1258",
+
+      "content": "26 minutes ago",
+      "id": 357
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T17:59:38.925Z",
+      "time": "20:59:38",
+      "minutes_from_midnight": "1259",
+
+      "content": "27 minutes ago",
+      "id": 358
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T18:00:39.176Z",
+      "time": "21:00:39",
+      "minutes_from_midnight": "1260",
+
+      "content": "27 minutes ago",
+      "id": 359
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T18:01:38.959Z",
+      "time": "21:01:38",
+      "minutes_from_midnight": "1261",
+
+      "content": "23 minutes ago",
+      "id": 360
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T18:02:39.198Z",
+      "time": "21:02:39",
+      "minutes_from_midnight": "1262",
+
+      "content": "23 minutes ago",
+      "id": 361
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T18:03:38.990Z",
+      "time": "21:03:38",
+      "minutes_from_midnight": "1263",
+
+      "content": "23 minutes ago",
+      "id": 362
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T18:04:38.930Z",
+      "time": "21:04:38",
+      "minutes_from_midnight": "1264",
+
+      "content": "23 minutes ago",
+      "id": 363
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:05:39.326Z",
+      "time": "21:05:39",
+      "minutes_from_midnight": "1265",
+
+      "content": "21 minutes ago",
+      "id": 364
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:06:39.053Z",
+      "time": "21:06:39",
+      "minutes_from_midnight": "1266",
+
+      "content": "21 minutes ago",
+      "id": 365
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T18:07:39.453Z",
+      "time": "21:07:39",
+      "minutes_from_midnight": "1267",
+
+      "content": "20 minutes ago",
+      "id": 366
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T18:08:39.056Z",
+      "time": "21:08:39",
+      "minutes_from_midnight": "1268",
+
+      "content": "20 minutes ago",
+      "id": 367
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T18:09:38.912Z",
+      "time": "21:09:38",
+      "minutes_from_midnight": "1269",
+
+      "content": "17 minutes ago",
+      "id": 368
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T18:10:39.112Z",
+      "time": "21:10:39",
+      "minutes_from_midnight": "1270",
+
+      "content": "17 minutes ago",
+      "id": 369
+    },
+    {
+      "point": "14",
+      "date": "2017-02-08T18:11:38.949Z",
+      "time": "21:11:38",
+      "minutes_from_midnight": "1271",
+
+      "content": "14 minutes ago",
+      "id": 370
+    },
+    {
+      "point": "14",
+      "date": "2017-02-08T18:12:39.104Z",
+      "time": "21:12:39",
+      "minutes_from_midnight": "1272",
+
+      "content": "14 minutes ago",
+      "id": 371
+    },
+    {
+      "point": "15",
+      "date": "2017-02-08T18:13:39.461Z",
+      "time": "21:13:39",
+      "minutes_from_midnight": "1273",
+
+      "content": "15 minutes ago",
+      "id": 372
+    },
+    {
+      "point": "15",
+      "date": "2017-02-08T18:14:39.061Z",
+      "time": "21:14:39",
+      "minutes_from_midnight": "1274",
+
+      "content": "15 minutes ago",
+      "id": 373
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T18:15:40.776Z",
+      "time": "21:15:40",
+      "minutes_from_midnight": "1275",
+
+      "content": "17 minutes ago",
+      "id": 374
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T18:16:39.071Z",
+      "time": "21:16:39",
+      "minutes_from_midnight": "1276",
+
+      "content": "17 minutes ago",
+      "id": 375
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T18:17:39.186Z",
+      "time": "21:17:39",
+      "minutes_from_midnight": "1277",
+
+      "content": "17 minutes ago",
+      "id": 376
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T18:18:38.994Z",
+      "time": "21:18:38",
+      "minutes_from_midnight": "1278",
+
+      "content": "17 minutes ago",
+      "id": 377
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T18:19:39.091Z",
+      "time": "21:19:39",
+      "minutes_from_midnight": "1279",
+
+      "content": "19 minutes ago",
+      "id": 378
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T18:20:39.080Z",
+      "time": "21:20:39",
+      "minutes_from_midnight": "1280",
+
+      "content": "19 minutes ago",
+      "id": 379
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T18:21:38.904Z",
+      "time": "21:21:38",
+      "minutes_from_midnight": "1281",
+
+      "content": "20 minutes ago",
+      "id": 380
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T18:22:39.142Z",
+      "time": "21:22:39",
+      "minutes_from_midnight": "1282",
+
+      "content": "20 minutes ago",
+      "id": 381
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:23:38.987Z",
+      "time": "21:23:38",
+      "minutes_from_midnight": "1283",
+
+      "content": "22 minutes ago",
+      "id": 382
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:24:39.015Z",
+      "time": "21:24:39",
+      "minutes_from_midnight": "1284",
+
+      "content": "22 minutes ago",
+      "id": 383
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T18:25:39.061Z",
+      "time": "21:25:39",
+      "minutes_from_midnight": "1285",
+
+      "content": "24 minutes ago",
+      "id": 384
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T18:26:42.738Z",
+      "time": "21:26:42",
+      "minutes_from_midnight": "1286",
+
+      "content": "24 minutes ago",
+      "id": 385
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:27:39.024Z",
+      "time": "21:27:39",
+      "minutes_from_midnight": "1287",
+
+      "content": "25 minutes ago",
+      "id": 386
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:28:39.158Z",
+      "time": "21:28:39",
+      "minutes_from_midnight": "1288",
+
+      "content": "25 minutes ago",
+      "id": 387
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T18:29:39.114Z",
+      "time": "21:29:39",
+      "minutes_from_midnight": "1289",
+
+      "content": "27 minutes ago",
+      "id": 388
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T18:30:38.996Z",
+      "time": "21:30:38",
+      "minutes_from_midnight": "1290",
+
+      "content": "27 minutes ago",
+      "id": 389
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:31:39.185Z",
+      "time": "21:31:39",
+      "minutes_from_midnight": "1291",
+
+      "content": "25 minutes ago",
+      "id": 390
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:32:39.181Z",
+      "time": "21:32:39",
+      "minutes_from_midnight": "1292",
+
+      "content": "25 minutes ago",
+      "id": 391
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:33:39.104Z",
+      "time": "21:33:39",
+      "minutes_from_midnight": "1293",
+
+      "content": "25 minutes ago",
+      "id": 392
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:34:39.156Z",
+      "time": "21:34:39",
+      "minutes_from_midnight": "1294",
+
+      "content": "25 minutes ago",
+      "id": 393
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T18:35:39.184Z",
+      "time": "21:35:39",
+      "minutes_from_midnight": "1295",
+
+      "content": "28 minutes ago",
+      "id": 394
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T18:36:38.999Z",
+      "time": "21:36:38",
+      "minutes_from_midnight": "1296",
+
+      "content": "28 minutes ago",
+      "id": 395
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T18:37:39.271Z",
+      "time": "21:37:39",
+      "minutes_from_midnight": "1297",
+
+      "content": "27 minutes ago",
+      "id": 396
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T18:38:39.107Z",
+      "time": "21:38:39",
+      "minutes_from_midnight": "1298",
+
+      "content": "27 minutes ago",
+      "id": 397
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T18:39:39.265Z",
+      "time": "21:39:39",
+      "minutes_from_midnight": "1299",
+
+      "content": "28 minutes ago",
+      "id": 398
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T18:40:39.145Z",
+      "time": "21:40:39",
+      "minutes_from_midnight": "1300",
+
+      "content": "28 minutes ago",
+      "id": 399
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:41:39.249Z",
+      "time": "21:41:39",
+      "minutes_from_midnight": "1301",
+
+      "content": "25 minutes ago",
+      "id": 400
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T18:42:39.265Z",
+      "time": "21:42:39",
+      "minutes_from_midnight": "1302",
+
+      "content": "25 minutes ago",
+      "id": 401
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T18:43:39.126Z",
+      "time": "21:43:39",
+      "minutes_from_midnight": "1303",
+
+      "content": "23 minutes ago",
+      "id": 402
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T18:44:39.249Z",
+      "time": "21:44:39",
+      "minutes_from_midnight": "1304",
+
+      "content": "23 minutes ago",
+      "id": 403
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:45:39.305Z",
+      "time": "21:45:39",
+      "minutes_from_midnight": "1305",
+
+      "content": "21 minutes ago",
+      "id": 404
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:46:39.281Z",
+      "time": "21:46:39",
+      "minutes_from_midnight": "1306",
+
+      "content": "21 minutes ago",
+      "id": 405
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:47:39.347Z",
+      "time": "21:47:39",
+      "minutes_from_midnight": "1307",
+
+      "content": "21 minutes ago",
+      "id": 406
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:48:38.909Z",
+      "time": "21:48:38",
+      "minutes_from_midnight": "1308",
+
+      "content": "21 minutes ago",
+      "id": 407
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T18:49:39.252Z",
+      "time": "21:49:39",
+      "minutes_from_midnight": "1309",
+
+      "content": "19 minutes ago",
+      "id": 408
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T18:50:39.362Z",
+      "time": "21:50:39",
+      "minutes_from_midnight": "1310",
+
+      "content": "19 minutes ago",
+      "id": 409
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:51:39.082Z",
+      "time": "21:51:39",
+      "minutes_from_midnight": "1311",
+
+      "content": "21 minutes ago",
+      "id": 410
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T18:52:39.245Z",
+      "time": "21:52:39",
+      "minutes_from_midnight": "1312",
+
+      "content": "21 minutes ago",
+      "id": 411
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:53:39.253Z",
+      "time": "21:53:39",
+      "minutes_from_midnight": "1313",
+
+      "content": "22 minutes ago",
+      "id": 412
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:54:39.196Z",
+      "time": "21:54:39",
+      "minutes_from_midnight": "1314",
+
+      "content": "22 minutes ago",
+      "id": 413
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:55:39.189Z",
+      "time": "21:55:39",
+      "minutes_from_midnight": "1315",
+
+      "content": "22 minutes ago",
+      "id": 414
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:56:38.804Z",
+      "time": "21:56:38",
+      "minutes_from_midnight": "1316",
+
+      "content": "22 minutes ago",
+      "id": 415
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T18:57:39.126Z",
+      "time": "21:57:39",
+      "minutes_from_midnight": "1317",
+
+      "content": "22 minutes ago",
+      "id": 416
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T18:58:39.070Z",
+      "time": "21:58:39",
+      "minutes_from_midnight": "1318",
+
+      "content": "20 minutes ago",
+      "id": 417
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T18:59:39.759Z",
+      "time": "21:59:39",
+      "minutes_from_midnight": "1319",
+
+      "content": "20 minutes ago",
+      "id": 418
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T19:00:39.119Z",
+      "time": "22:00:39",
+      "minutes_from_midnight": "1320",
+
+      "content": "22 minutes ago",
+      "id": 419
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T19:01:41.369Z",
+      "time": "22:01:41",
+      "minutes_from_midnight": "1321",
+
+      "content": "22 minutes ago",
+      "id": 420
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T19:02:39.150Z",
+      "time": "22:02:39",
+      "minutes_from_midnight": "1322",
+
+      "content": "23 minutes ago",
+      "id": 421
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T19:03:42.900Z",
+      "time": "22:03:42",
+      "minutes_from_midnight": "1323",
+
+      "content": "23 minutes ago",
+      "id": 422
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T19:04:39.206Z",
+      "time": "22:04:39",
+      "minutes_from_midnight": "1324",
+
+      "content": "25 minutes ago",
+      "id": 423
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T19:05:39.048Z",
+      "time": "22:05:39",
+      "minutes_from_midnight": "1325",
+
+      "content": "25 minutes ago",
+      "id": 424
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T19:06:38.697Z",
+      "time": "22:06:38",
+      "minutes_from_midnight": "1326",
+
+      "content": "27 minutes ago",
+      "id": 425
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T19:07:39.248Z",
+      "time": "22:07:39",
+      "minutes_from_midnight": "1327",
+
+      "content": "27 minutes ago",
+      "id": 426
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T19:08:39.228Z",
+      "time": "22:08:39",
+      "minutes_from_midnight": "1328",
+
+      "content": "27 minutes ago",
+      "id": 427
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T19:09:39.295Z",
+      "time": "22:09:39",
+      "minutes_from_midnight": "1329",
+
+      "content": "27 minutes ago",
+      "id": 428
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T19:10:39.384Z",
+      "time": "22:10:39",
+      "minutes_from_midnight": "1330",
+
+      "content": "28 minutes ago",
+      "id": 429
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T19:11:39.303Z",
+      "time": "22:11:39",
+      "minutes_from_midnight": "1331",
+
+      "content": "28 minutes ago",
+      "id": 430
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T19:12:39.138Z",
+      "time": "22:12:39",
+      "minutes_from_midnight": "1332",
+
+      "content": "28 minutes ago",
+      "id": 431
+    },
+    {
+      "point": "28",
+      "date": "2017-02-08T19:13:39.381Z",
+      "time": "22:13:39",
+      "minutes_from_midnight": "1333",
+
+      "content": "28 minutes ago",
+      "id": 432
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T19:14:39.342Z",
+      "time": "22:14:39",
+      "minutes_from_midnight": "1334",
+
+      "content": "30 minutes ago",
+      "id": 433
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T19:15:38.724Z",
+      "time": "22:15:38",
+      "minutes_from_midnight": "1335",
+
+      "content": "30 minutes ago",
+      "id": 434
+    },
+    {
+      "point": "31",
+      "date": "2017-02-08T19:16:39.575Z",
+      "time": "22:16:39",
+      "minutes_from_midnight": "1336",
+
+      "content": "31 minutes ago",
+      "id": 435
+    },
+    {
+      "point": "31",
+      "date": "2017-02-08T19:17:39.379Z",
+      "time": "22:17:39",
+      "minutes_from_midnight": "1337",
+
+      "content": "31 minutes ago",
+      "id": 436
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T19:18:39.329Z",
+      "time": "22:18:39",
+      "minutes_from_midnight": "1338",
+
+      "content": "33 minutes ago",
+      "id": 437
+    },
+    {
+      "point": "33",
+      "date": "2017-02-08T19:19:39.287Z",
+      "time": "22:19:39",
+      "minutes_from_midnight": "1339",
+
+      "content": "33 minutes ago",
+      "id": 438
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T19:20:39.682Z",
+      "time": "22:20:39",
+      "minutes_from_midnight": "1340",
+
+      "content": "34 minutes ago",
+      "id": 439
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T19:21:39.219Z",
+      "time": "22:21:39",
+      "minutes_from_midnight": "1341",
+
+      "content": "34 minutes ago",
+      "id": 440
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T19:22:39.295Z",
+      "time": "22:22:39",
+      "minutes_from_midnight": "1342",
+
+      "content": "36 minutes ago",
+      "id": 441
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T19:23:39.529Z",
+      "time": "22:23:39",
+      "minutes_from_midnight": "1343",
+
+      "content": "36 minutes ago",
+      "id": 442
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T19:24:39.348Z",
+      "time": "22:24:39",
+      "minutes_from_midnight": "1344",
+
+      "content": "35 minutes ago",
+      "id": 443
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T19:25:39.281Z",
+      "time": "22:25:39",
+      "minutes_from_midnight": "1345",
+
+      "content": "35 minutes ago",
+      "id": 444
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T19:26:39.251Z",
+      "time": "22:26:39",
+      "minutes_from_midnight": "1346",
+
+      "content": "35 minutes ago",
+      "id": 445
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T19:27:39.586Z",
+      "time": "22:27:39",
+      "minutes_from_midnight": "1347",
+
+      "content": "35 minutes ago",
+      "id": 446
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T19:28:39.449Z",
+      "time": "22:28:39",
+      "minutes_from_midnight": "1348",
+
+      "content": "36 minutes ago",
+      "id": 447
+    },
+    {
+      "point": "36",
+      "date": "2017-02-08T19:29:39.415Z",
+      "time": "22:29:39",
+      "minutes_from_midnight": "1349",
+
+      "content": "36 minutes ago",
+      "id": 448
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T19:30:39.299Z",
+      "time": "22:30:39",
+      "minutes_from_midnight": "1350",
+
+      "content": "37 minutes ago",
+      "id": 449
+    },
+    {
+      "point": "37",
+      "date": "2017-02-08T19:31:39.409Z",
+      "time": "22:31:39",
+      "minutes_from_midnight": "1351",
+
+      "content": "37 minutes ago",
+      "id": 450
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T19:32:39.310Z",
+      "time": "22:32:39",
+      "minutes_from_midnight": "1352",
+
+      "content": "34 minutes ago",
+      "id": 451
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T19:33:39.367Z",
+      "time": "22:33:39",
+      "minutes_from_midnight": "1353",
+
+      "content": "34 minutes ago",
+      "id": 452
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T19:34:39.339Z",
+      "time": "22:34:39",
+      "minutes_from_midnight": "1354",
+
+      "content": "35 minutes ago",
+      "id": 453
+    },
+    {
+      "point": "35",
+      "date": "2017-02-08T19:35:39.456Z",
+      "time": "22:35:39",
+      "minutes_from_midnight": "1355",
+
+      "content": "35 minutes ago",
+      "id": 454
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T19:36:38.990Z",
+      "time": "22:36:38",
+      "minutes_from_midnight": "1356",
+
+      "content": "34 minutes ago",
+      "id": 455
+    },
+    {
+      "point": "34",
+      "date": "2017-02-08T19:37:38.933Z",
+      "time": "22:37:38",
+      "minutes_from_midnight": "1357",
+
+      "content": "34 minutes ago",
+      "id": 456
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T19:38:39.474Z",
+      "time": "22:38:39",
+      "minutes_from_midnight": "1358",
+
+      "content": "30 minutes ago",
+      "id": 457
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T19:39:39.535Z",
+      "time": "22:39:39",
+      "minutes_from_midnight": "1359",
+
+      "content": "30 minutes ago",
+      "id": 458
+    },
+    {
+      "point": "31",
+      "date": "2017-02-08T19:40:39.259Z",
+      "time": "22:40:39",
+      "minutes_from_midnight": "1360",
+
+      "content": "31 minutes ago",
+      "id": 459
+    },
+    {
+      "point": "31",
+      "date": "2017-02-08T19:41:39.453Z",
+      "time": "22:41:39",
+      "minutes_from_midnight": "1361",
+
+      "content": "31 minutes ago",
+      "id": 460
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T19:42:39.461Z",
+      "time": "22:42:39",
+      "minutes_from_midnight": "1362",
+
+      "content": "24 minutes ago",
+      "id": 461
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T19:43:39.492Z",
+      "time": "22:43:39",
+      "minutes_from_midnight": "1363",
+
+      "content": "24 minutes ago",
+      "id": 462
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T19:44:39.466Z",
+      "time": "22:44:39",
+      "minutes_from_midnight": "1364",
+
+      "content": "22 minutes ago",
+      "id": 463
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T19:45:40.671Z",
+      "time": "22:45:40",
+      "minutes_from_midnight": "1365",
+
+      "content": "22 minutes ago",
+      "id": 464
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T19:46:39.429Z",
+      "time": "22:46:39",
+      "minutes_from_midnight": "1366",
+
+      "content": "18 minutes ago",
+      "id": 465
+    },
+    {
+      "point": "18",
+      "date": "2017-02-08T19:47:39.977Z",
+      "time": "22:47:39",
+      "minutes_from_midnight": "1367",
+
+      "content": "18 minutes ago",
+      "id": 466
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T19:48:39.568Z",
+      "time": "22:48:39",
+      "minutes_from_midnight": "1368",
+
+      "content": "17 minutes ago",
+      "id": 467
+    },
+    {
+      "point": "17",
+      "date": "2017-02-08T19:49:39.617Z",
+      "time": "22:49:39",
+      "minutes_from_midnight": "1369",
+
+      "content": "17 minutes ago",
+      "id": 468
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T19:50:39.445Z",
+      "time": "22:50:39",
+      "minutes_from_midnight": "1370",
+
+      "content": "19 minutes ago",
+      "id": 469
+    },
+    {
+      "point": "19",
+      "date": "2017-02-08T19:51:39.454Z",
+      "time": "22:51:39",
+      "minutes_from_midnight": "1371",
+
+      "content": "19 minutes ago",
+      "id": 470
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T19:52:39.596Z",
+      "time": "22:52:39",
+      "minutes_from_midnight": "1372",
+
+      "content": "20 minutes ago",
+      "id": 471
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T19:53:39.623Z",
+      "time": "22:53:39",
+      "minutes_from_midnight": "1373",
+
+      "content": "20 minutes ago",
+      "id": 472
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T19:54:39.026Z",
+      "time": "22:54:39",
+      "minutes_from_midnight": "1374",
+
+      "content": "22 minutes ago",
+      "id": 473
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T19:55:39.556Z",
+      "time": "22:55:39",
+      "minutes_from_midnight": "1375",
+
+      "content": "22 minutes ago",
+      "id": 474
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T19:56:39.421Z",
+      "time": "22:56:39",
+      "minutes_from_midnight": "1376",
+
+      "content": "20 minutes ago",
+      "id": 475
+    },
+    {
+      "point": "20",
+      "date": "2017-02-08T19:57:39.449Z",
+      "time": "22:57:39",
+      "minutes_from_midnight": "1377",
+
+      "content": "20 minutes ago",
+      "id": 476
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T19:58:39.483Z",
+      "time": "22:58:39",
+      "minutes_from_midnight": "1378",
+
+      "content": "21 minutes ago",
+      "id": 477
+    },
+    {
+      "point": "21",
+      "date": "2017-02-08T19:59:39.503Z",
+      "time": "22:59:39",
+      "minutes_from_midnight": "1379",
+
+      "content": "21 minutes ago",
+      "id": 478
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T20:00:40.695Z",
+      "time": "23:00:40",
+      "minutes_from_midnight": "1380",
+
+      "content": "23 minutes ago",
+      "id": 479
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T20:01:39.482Z",
+      "time": "23:01:39",
+      "minutes_from_midnight": "1381",
+
+      "content": "23 minutes ago",
+      "id": 480
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T20:02:39.101Z",
+      "time": "23:02:39",
+      "minutes_from_midnight": "1382",
+
+      "content": "22 minutes ago",
+      "id": 481
+    },
+    {
+      "point": "22",
+      "date": "2017-02-08T20:03:39.522Z",
+      "time": "23:03:39",
+      "minutes_from_midnight": "1383",
+
+      "content": "22 minutes ago",
+      "id": 482
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T20:04:39.514Z",
+      "time": "23:04:39",
+      "minutes_from_midnight": "1384",
+
+      "content": "23 minutes ago",
+      "id": 483
+    },
+    {
+      "point": "23",
+      "date": "2017-02-08T20:05:39.502Z",
+      "time": "23:05:39",
+      "minutes_from_midnight": "1385",
+
+      "content": "23 minutes ago",
+      "id": 484
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T20:06:39.449Z",
+      "time": "23:06:39",
+      "minutes_from_midnight": "1386",
+
+      "content": "24 minutes ago",
+      "id": 485
+    },
+    {
+      "point": "24",
+      "date": "2017-02-08T20:07:39.373Z",
+      "time": "23:07:39",
+      "minutes_from_midnight": "1387",
+
+      "content": "24 minutes ago",
+      "id": 486
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T20:08:39.469Z",
+      "time": "23:08:39",
+      "minutes_from_midnight": "1388",
+
+      "content": "26 minutes ago",
+      "id": 487
+    },
+    {
+      "point": "26",
+      "date": "2017-02-08T20:09:39.524Z",
+      "time": "23:09:39",
+      "minutes_from_midnight": "1389",
+
+      "content": "26 minutes ago",
+      "id": 488
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T20:10:39.381Z",
+      "time": "23:10:39",
+      "minutes_from_midnight": "1390",
+
+      "content": "25 minutes ago",
+      "id": 489
+    },
+    {
+      "point": "25",
+      "date": "2017-02-08T20:11:39.520Z",
+      "time": "23:11:39",
+      "minutes_from_midnight": "1391",
+
+      "content": "25 minutes ago",
+      "id": 490
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T20:12:39.160Z",
+      "time": "23:12:39",
+      "minutes_from_midnight": "1392",
+
+      "content": "27 minutes ago",
+      "id": 491
+    },
+    {
+      "point": "27",
+      "date": "2017-02-08T20:13:39.315Z",
+      "time": "23:13:39",
+      "minutes_from_midnight": "1393",
+
+      "content": "27 minutes ago",
+      "id": 492
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T20:14:39.458Z",
+      "time": "23:14:39",
+      "minutes_from_midnight": "1394",
+
+      "content": "29 minutes ago",
+      "id": 493
+    },
+    {
+      "point": "29",
+      "date": "2017-02-08T20:15:39.342Z",
+      "time": "23:15:39",
+      "minutes_from_midnight": "1395",
+
+      "content": "29 minutes ago",
+      "id": 494
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T20:16:39.388Z",
+      "time": "23:16:39",
+      "minutes_from_midnight": "1396",
+
+      "content": "30 minutes ago",
+      "id": 495
+    },
+    {
+      "point": "30",
+      "date": "2017-02-08T20:17:39.434Z",
+      "time": "23:17:39",
+      "minutes_from_midnight": "1397",
+
+      "content": "30 minutes ago",
+      "id": 496
+    },
+    {
+      "point": "49",
+      "date": "2017-02-09T05:49:44.812Z",
+      "time": "08:49:44",
+      "minutes_from_midnight": "529",
+
+      "content": "49 minutes ago",
+      "id": 497
+    },
+    {
+      "point": "49",
+      "date": "2017-02-09T05:50:44.700Z",
+      "time": "08:50:44",
+      "minutes_from_midnight": "530",
+
+      "content": "49 minutes ago",
+      "id": 498
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T05:51:44.777Z",
+      "time": "08:51:44",
+      "minutes_from_midnight": "531",
+
+      "content": "50 minutes ago",
+      "id": 499
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T05:52:44.866Z",
+      "time": "08:52:44",
+      "minutes_from_midnight": "532",
+
+      "content": "50 minutes ago",
+      "id": 500
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T05:53:44.730Z",
+      "time": "08:53:44",
+      "minutes_from_midnight": "533",
+
+      "content": "48 minutes ago",
+      "id": 501
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T05:54:44.814Z",
+      "time": "08:54:44",
+      "minutes_from_midnight": "534",
+
+      "content": "48 minutes ago",
+      "id": 502
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T05:55:44.721Z",
+      "time": "08:55:44",
+      "minutes_from_midnight": "535",
+
+      "content": "50 minutes ago",
+      "id": 503
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T05:56:44.704Z",
+      "time": "08:56:44",
+      "minutes_from_midnight": "536",
+
+      "content": "50 minutes ago",
+      "id": 504
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T05:57:44.927Z",
+      "time": "08:57:44",
+      "minutes_from_midnight": "537",
+
+      "content": "52 minutes ago",
+      "id": 505
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T05:58:44.324Z",
+      "time": "08:58:44",
+      "minutes_from_midnight": "538",
+
+      "content": "52 minutes ago",
+      "id": 506
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T05:59:44.952Z",
+      "time": "08:59:44",
+      "minutes_from_midnight": "539",
+
+      "content": "54 minutes ago",
+      "id": 507
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T06:00:44.388Z",
+      "time": "09:00:44",
+      "minutes_from_midnight": "540",
+
+      "content": "54 minutes ago",
+      "id": 508
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T06:01:44.383Z",
+      "time": "09:01:44",
+      "minutes_from_midnight": "541",
+
+      "content": "54 minutes ago",
+      "id": 509
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T06:02:44.970Z",
+      "time": "09:02:44",
+      "minutes_from_midnight": "542",
+
+      "content": "54 minutes ago",
+      "id": 510
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:03:44.465Z",
+      "time": "09:03:44",
+      "minutes_from_midnight": "543",
+
+      "content": "56 minutes ago",
+      "id": 511
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:04:44.849Z",
+      "time": "09:04:44",
+      "minutes_from_midnight": "544",
+
+      "content": "56 minutes ago",
+      "id": 512
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:05:45.044Z",
+      "time": "09:05:45",
+      "minutes_from_midnight": "545",
+
+      "content": "56 minutes ago",
+      "id": 513
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:06:44.882Z",
+      "time": "09:06:44",
+      "minutes_from_midnight": "546",
+
+      "content": "56 minutes ago",
+      "id": 514
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:07:44.888Z",
+      "time": "09:07:44",
+      "minutes_from_midnight": "547",
+
+      "content": "56 minutes ago",
+      "id": 515
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:08:44.552Z",
+      "time": "09:08:44",
+      "minutes_from_midnight": "548",
+
+      "content": "56 minutes ago",
+      "id": 516
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:09:44.996Z",
+      "time": "09:09:44",
+      "minutes_from_midnight": "549",
+
+      "content": "56 minutes ago",
+      "id": 517
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:10:44.876Z",
+      "time": "09:10:44",
+      "minutes_from_midnight": "550",
+
+      "content": "56 minutes ago",
+      "id": 518
+    },
+    {
+      "point": "58",
+      "date": "2017-02-09T06:11:44.889Z",
+      "time": "09:11:44",
+      "minutes_from_midnight": "551",
+
+      "content": "58 minutes ago",
+      "id": 519
+    },
+    {
+      "point": "58",
+      "date": "2017-02-09T06:12:44.988Z",
+      "time": "09:12:44",
+      "minutes_from_midnight": "552",
+
+      "content": "58 minutes ago",
+      "id": 520
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:13:45.026Z",
+      "time": "09:13:45",
+      "minutes_from_midnight": "553",
+
+      "content": "56 minutes ago",
+      "id": 521
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T06:14:44.970Z",
+      "time": "09:14:44",
+      "minutes_from_midnight": "554",
+
+      "content": "56 minutes ago",
+      "id": 522
+    },
+    {
+      "point": "57",
+      "date": "2017-02-09T06:15:45.242Z",
+      "time": "09:15:45",
+      "minutes_from_midnight": "555",
+
+      "content": "57 minutes ago",
+      "id": 523
+    },
+    {
+      "point": "57",
+      "date": "2017-02-09T06:16:45.325Z",
+      "time": "09:16:45",
+      "minutes_from_midnight": "556",
+
+      "content": "57 minutes ago",
+      "id": 524
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:17:45.162Z",
+      "time": "09:17:45",
+      "minutes_from_midnight": "557",
+
+      "content": "1 hour ago",
+      "id": 525
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:18:45.296Z",
+      "time": "09:18:45",
+      "minutes_from_midnight": "558",
+
+      "content": "1 hour ago",
+      "id": 526
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:19:45.226Z",
+      "time": "09:19:45",
+      "minutes_from_midnight": "559",
+
+      "content": "1 hour ago",
+      "id": 527
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:20:45.253Z",
+      "time": "09:20:45",
+      "minutes_from_midnight": "560",
+
+      "content": "1 hour ago",
+      "id": 528
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:21:45.159Z",
+      "time": "09:21:45",
+      "minutes_from_midnight": "561",
+
+      "content": "1 hour ago",
+      "id": 529
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:22:45.317Z",
+      "time": "09:22:45",
+      "minutes_from_midnight": "562",
+
+      "content": "1 hour ago",
+      "id": 530
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:23:45.172Z",
+      "time": "09:23:45",
+      "minutes_from_midnight": "563",
+
+      "content": "1 hour ago",
+      "id": 531
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:24:45.240Z",
+      "time": "09:24:45",
+      "minutes_from_midnight": "564",
+
+      "content": "1 hour ago",
+      "id": 532
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:25:45.235Z",
+      "time": "09:25:45",
+      "minutes_from_midnight": "565",
+
+      "content": "1 hour ago",
+      "id": 533
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:26:45.474Z",
+      "time": "09:26:45",
+      "minutes_from_midnight": "566",
+
+      "content": "1 hour ago",
+      "id": 534
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:27:45.309Z",
+      "time": "09:27:45",
+      "minutes_from_midnight": "567",
+
+      "content": "1 hour ago",
+      "id": 535
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:28:45.278Z",
+      "time": "09:28:45",
+      "minutes_from_midnight": "568",
+
+      "content": "1 hour ago",
+      "id": 536
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:29:45.248Z",
+      "time": "09:29:45",
+      "minutes_from_midnight": "569",
+
+      "content": "1 hour ago",
+      "id": 537
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:30:45.410Z",
+      "time": "09:30:45",
+      "minutes_from_midnight": "570",
+
+      "content": "1 hour ago",
+      "id": 538
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:31:45.320Z",
+      "time": "09:31:45",
+      "minutes_from_midnight": "571",
+
+      "content": "1 hour ago",
+      "id": 539
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:32:45.357Z",
+      "time": "09:32:45",
+      "minutes_from_midnight": "572",
+
+      "content": "1 hour ago",
+      "id": 540
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:33:44.965Z",
+      "time": "09:33:44",
+      "minutes_from_midnight": "573",
+
+      "content": "1 hour ago",
+      "id": 541
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:34:45.383Z",
+      "time": "09:34:45",
+      "minutes_from_midnight": "574",
+
+      "content": "1 hour ago",
+      "id": 542
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:35:45.405Z",
+      "time": "09:35:45",
+      "minutes_from_midnight": "575",
+
+      "content": "1 hour ago",
+      "id": 543
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:36:45.323Z",
+      "time": "09:36:45",
+      "minutes_from_midnight": "576",
+
+      "content": "1 hour ago",
+      "id": 544
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:37:45.290Z",
+      "time": "09:37:45",
+      "minutes_from_midnight": "577",
+
+      "content": "1 hour ago",
+      "id": 545
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:38:45.364Z",
+      "time": "09:38:45",
+      "minutes_from_midnight": "578",
+
+      "content": "1 hour ago",
+      "id": 546
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:39:45.308Z",
+      "time": "09:39:45",
+      "minutes_from_midnight": "579",
+
+      "content": "1 hour ago",
+      "id": 547
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:40:45.364Z",
+      "time": "09:40:45",
+      "minutes_from_midnight": "580",
+
+      "content": "1 hour ago",
+      "id": 548
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:41:45.400Z",
+      "time": "09:41:45",
+      "minutes_from_midnight": "581",
+
+      "content": "1 hour ago",
+      "id": 549
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:42:45.380Z",
+      "time": "09:42:45",
+      "minutes_from_midnight": "582",
+
+      "content": "1 hour ago",
+      "id": 550
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:43:45.481Z",
+      "time": "09:43:45",
+      "minutes_from_midnight": "583",
+
+      "content": "1 hour ago",
+      "id": 551
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:44:45.550Z",
+      "time": "09:44:45",
+      "minutes_from_midnight": "584",
+
+      "content": "1 hour ago",
+      "id": 552
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:45:44.881Z",
+      "time": "09:45:44",
+      "minutes_from_midnight": "585",
+
+      "content": "1 hour ago",
+      "id": 553
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:46:45.348Z",
+      "time": "09:46:45",
+      "minutes_from_midnight": "586",
+
+      "content": "1 hour ago",
+      "id": 554
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:47:45.475Z",
+      "time": "09:47:45",
+      "minutes_from_midnight": "587",
+
+      "content": "1 hour ago",
+      "id": 555
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:48:45.460Z",
+      "time": "09:48:45",
+      "minutes_from_midnight": "588",
+
+      "content": "1 hour ago",
+      "id": 556
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:49:45.480Z",
+      "time": "09:49:45",
+      "minutes_from_midnight": "589",
+
+      "content": "1 hour ago",
+      "id": 557
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:50:44.955Z",
+      "time": "09:50:44",
+      "minutes_from_midnight": "590",
+
+      "content": "1 hour ago",
+      "id": 558
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:51:45.549Z",
+      "time": "09:51:45",
+      "minutes_from_midnight": "591",
+
+      "content": "1 hour ago",
+      "id": 559
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:52:45.462Z",
+      "time": "09:52:45",
+      "minutes_from_midnight": "592",
+
+      "content": "1 hour ago",
+      "id": 560
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:53:45.472Z",
+      "time": "09:53:45",
+      "minutes_from_midnight": "593",
+
+      "content": "1 hour ago",
+      "id": 561
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:54:45.336Z",
+      "time": "09:54:45",
+      "minutes_from_midnight": "594",
+
+      "content": "1 hour ago",
+      "id": 562
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:55:45.478Z",
+      "time": "09:55:45",
+      "minutes_from_midnight": "595",
+
+      "content": "1 hour ago",
+      "id": 563
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:56:45.476Z",
+      "time": "09:56:45",
+      "minutes_from_midnight": "596",
+
+      "content": "1 hour ago",
+      "id": 564
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:57:45.405Z",
+      "time": "09:57:45",
+      "minutes_from_midnight": "597",
+
+      "content": "1 hour ago",
+      "id": 565
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:58:45.590Z",
+      "time": "09:58:45",
+      "minutes_from_midnight": "598",
+
+      "content": "1 hour ago",
+      "id": 566
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T06:59:45.554Z",
+      "time": "09:59:45",
+      "minutes_from_midnight": "599",
+
+      "content": "1 hour ago",
+      "id": 567
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:00:44.893Z",
+      "time": "10:00:44",
+      "minutes_from_midnight": "600",
+
+      "content": "1 hour ago",
+      "id": 568
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:01:45.469Z",
+      "time": "10:01:45",
+      "minutes_from_midnight": "601",
+
+      "content": "1 hour ago",
+      "id": 569
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:02:45.563Z",
+      "time": "10:02:45",
+      "minutes_from_midnight": "602",
+
+      "content": "1 hour ago",
+      "id": 570
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:03:45.319Z",
+      "time": "10:03:45",
+      "minutes_from_midnight": "603",
+
+      "content": "1 hour ago",
+      "id": 571
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:04:45.329Z",
+      "time": "10:04:45",
+      "minutes_from_midnight": "604",
+
+      "content": "1 hour ago",
+      "id": 572
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:05:44.949Z",
+      "time": "10:05:44",
+      "minutes_from_midnight": "605",
+
+      "content": "1 hour ago",
+      "id": 573
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:06:45.412Z",
+      "time": "10:06:45",
+      "minutes_from_midnight": "606",
+
+      "content": "1 hour ago",
+      "id": 574
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:07:45.291Z",
+      "time": "10:07:45",
+      "minutes_from_midnight": "607",
+
+      "content": "1 hour ago",
+      "id": 575
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:08:45.474Z",
+      "time": "10:08:45",
+      "minutes_from_midnight": "608",
+
+      "content": "1 hour ago",
+      "id": 576
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:09:45.415Z",
+      "time": "10:09:45",
+      "minutes_from_midnight": "609",
+
+      "content": "1 hour ago",
+      "id": 577
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:10:44.919Z",
+      "time": "10:10:44",
+      "minutes_from_midnight": "610",
+
+      "content": "1 hour ago",
+      "id": 578
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:11:45.369Z",
+      "time": "10:11:45",
+      "minutes_from_midnight": "611",
+
+      "content": "1 hour ago",
+      "id": 579
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:12:45.559Z",
+      "time": "10:12:45",
+      "minutes_from_midnight": "612",
+
+      "content": "1 hour ago",
+      "id": 580
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:13:45.582Z",
+      "time": "10:13:45",
+      "minutes_from_midnight": "613",
+
+      "content": "1 hour ago",
+      "id": 581
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:14:45.482Z",
+      "time": "10:14:45",
+      "minutes_from_midnight": "614",
+
+      "content": "1 hour ago",
+      "id": 582
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:15:45.309Z",
+      "time": "10:15:45",
+      "minutes_from_midnight": "615",
+
+      "content": "1 hour ago",
+      "id": 583
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:16:45.461Z",
+      "time": "10:16:45",
+      "minutes_from_midnight": "616",
+
+      "content": "1 hour ago",
+      "id": 584
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:17:45.488Z",
+      "time": "10:17:45",
+      "minutes_from_midnight": "617",
+
+      "content": "1 hour ago",
+      "id": 585
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:18:45.595Z",
+      "time": "10:18:45",
+      "minutes_from_midnight": "618",
+
+      "content": "1 hour ago",
+      "id": 586
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:19:45.569Z",
+      "time": "10:19:45",
+      "minutes_from_midnight": "619",
+
+      "content": "1 hour ago",
+      "id": 587
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:20:45.409Z",
+      "time": "10:20:45",
+      "minutes_from_midnight": "620",
+
+      "content": "1 hour ago",
+      "id": 588
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:21:45.449Z",
+      "time": "10:21:45",
+      "minutes_from_midnight": "621",
+
+      "content": "1 hour ago",
+      "id": 589
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:22:45.524Z",
+      "time": "10:22:45",
+      "minutes_from_midnight": "622",
+
+      "content": "1 hour ago",
+      "id": 590
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:23:45.534Z",
+      "time": "10:23:45",
+      "minutes_from_midnight": "623",
+
+      "content": "1 hour ago",
+      "id": 591
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:24:45.515Z",
+      "time": "10:24:45",
+      "minutes_from_midnight": "624",
+
+      "content": "1 hour ago",
+      "id": 592
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:25:44.951Z",
+      "time": "10:25:44",
+      "minutes_from_midnight": "625",
+
+      "content": "1 hour ago",
+      "id": 593
+    },
+    {
+      "point": "57",
+      "date": "2017-02-09T07:26:45.558Z",
+      "time": "10:26:45",
+      "minutes_from_midnight": "626",
+
+      "content": "57 minutes ago",
+      "id": 594
+    },
+    {
+      "point": "57",
+      "date": "2017-02-09T07:27:45.425Z",
+      "time": "10:27:45",
+      "minutes_from_midnight": "627",
+
+      "content": "57 minutes ago",
+      "id": 595
+    },
+    {
+      "point": "59",
+      "date": "2017-02-09T07:28:45.531Z",
+      "time": "10:28:45",
+      "minutes_from_midnight": "628",
+
+      "content": "59 minutes ago",
+      "id": 596
+    },
+    {
+      "point": "59",
+      "date": "2017-02-09T07:29:46.648Z",
+      "time": "10:29:46",
+      "minutes_from_midnight": "629",
+
+      "content": "59 minutes ago",
+      "id": 597
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:30:45.591Z",
+      "time": "10:30:45",
+      "minutes_from_midnight": "630",
+
+      "content": "1 hour ago",
+      "id": 598
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:31:45.565Z",
+      "time": "10:31:45",
+      "minutes_from_midnight": "631",
+
+      "content": "1 hour ago",
+      "id": 599
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:32:45.439Z",
+      "time": "10:32:45",
+      "minutes_from_midnight": "632",
+
+      "content": "1 hour ago",
+      "id": 600
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:33:45.480Z",
+      "time": "10:33:45",
+      "minutes_from_midnight": "633",
+
+      "content": "1 hour ago",
+      "id": 601
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:34:45.336Z",
+      "time": "10:34:45",
+      "minutes_from_midnight": "634",
+
+      "content": "1 hour ago",
+      "id": 602
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:35:45.411Z",
+      "time": "10:35:45",
+      "minutes_from_midnight": "635",
+
+      "content": "1 hour ago",
+      "id": 603
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:36:45.542Z",
+      "time": "10:36:45",
+      "minutes_from_midnight": "636",
+
+      "content": "1 hour ago",
+      "id": 604
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:37:45.531Z",
+      "time": "10:37:45",
+      "minutes_from_midnight": "637",
+
+      "content": "1 hour ago",
+      "id": 605
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:38:45.526Z",
+      "time": "10:38:45",
+      "minutes_from_midnight": "638",
+
+      "content": "1 hour ago",
+      "id": 606
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:39:45.491Z",
+      "time": "10:39:45",
+      "minutes_from_midnight": "639",
+
+      "content": "1 hour ago",
+      "id": 607
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:40:45.450Z",
+      "time": "10:40:45",
+      "minutes_from_midnight": "640",
+
+      "content": "1 hour ago",
+      "id": 608
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:41:45.866Z",
+      "time": "10:41:45",
+      "minutes_from_midnight": "641",
+
+      "content": "1 hour ago",
+      "id": 609
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:42:45.529Z",
+      "time": "10:42:45",
+      "minutes_from_midnight": "642",
+
+      "content": "1 hour ago",
+      "id": 610
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:43:45.517Z",
+      "time": "10:43:45",
+      "minutes_from_midnight": "643",
+
+      "content": "1 hour ago",
+      "id": 611
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:44:45.491Z",
+      "time": "10:44:45",
+      "minutes_from_midnight": "644",
+
+      "content": "1 hour ago",
+      "id": 612
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:45:45.583Z",
+      "time": "10:45:45",
+      "minutes_from_midnight": "645",
+
+      "content": "1 hour ago",
+      "id": 613
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:46:45.562Z",
+      "time": "10:46:45",
+      "minutes_from_midnight": "646",
+
+      "content": "1 hour ago",
+      "id": 614
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:47:45.476Z",
+      "time": "10:47:45",
+      "minutes_from_midnight": "647",
+
+      "content": "1 hour ago",
+      "id": 615
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:48:45.601Z",
+      "time": "10:48:45",
+      "minutes_from_midnight": "648",
+
+      "content": "1 hour ago",
+      "id": 616
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:49:45.664Z",
+      "time": "10:49:45",
+      "minutes_from_midnight": "649",
+
+      "content": "1 hour ago",
+      "id": 617
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:50:45.384Z",
+      "time": "10:50:45",
+      "minutes_from_midnight": "650",
+
+      "content": "1 hour ago",
+      "id": 618
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:51:45.580Z",
+      "time": "10:51:45",
+      "minutes_from_midnight": "651",
+
+      "content": "1 hour ago",
+      "id": 619
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:52:45.588Z",
+      "time": "10:52:45",
+      "minutes_from_midnight": "652",
+
+      "content": "1 hour ago",
+      "id": 620
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:53:45.452Z",
+      "time": "10:53:45",
+      "minutes_from_midnight": "653",
+
+      "content": "1 hour ago",
+      "id": 621
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:54:45.569Z",
+      "time": "10:54:45",
+      "minutes_from_midnight": "654",
+
+      "content": "1 hour ago",
+      "id": 622
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:55:45.674Z",
+      "time": "10:55:45",
+      "minutes_from_midnight": "655",
+
+      "content": "1 hour ago",
+      "id": 623
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:56:45.516Z",
+      "time": "10:56:45",
+      "minutes_from_midnight": "656",
+
+      "content": "1 hour ago",
+      "id": 624
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:57:45.595Z",
+      "time": "10:57:45",
+      "minutes_from_midnight": "657",
+
+      "content": "1 hour ago",
+      "id": 625
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:58:45.688Z",
+      "time": "10:58:45",
+      "minutes_from_midnight": "658",
+
+      "content": "1 hour ago",
+      "id": 626
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T07:59:45.580Z",
+      "time": "10:59:45",
+      "minutes_from_midnight": "659",
+
+      "content": "1 hour ago",
+      "id": 627
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:00:45.629Z",
+      "time": "11:00:45",
+      "minutes_from_midnight": "660",
+
+      "content": "1 hour ago",
+      "id": 628
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:01:45.173Z",
+      "time": "11:01:45",
+      "minutes_from_midnight": "661",
+
+      "content": "1 hour ago",
+      "id": 629
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:02:45.711Z",
+      "time": "11:02:45",
+      "minutes_from_midnight": "662",
+
+      "content": "1 hour ago",
+      "id": 630
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:03:45.635Z",
+      "time": "11:03:45",
+      "minutes_from_midnight": "663",
+
+      "content": "1 hour ago",
+      "id": 631
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:04:45.687Z",
+      "time": "11:04:45",
+      "minutes_from_midnight": "664",
+
+      "content": "1 hour ago",
+      "id": 632
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:05:45.769Z",
+      "time": "11:05:45",
+      "minutes_from_midnight": "665",
+
+      "content": "1 hour ago",
+      "id": 633
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:06:45.297Z",
+      "time": "11:06:45",
+      "minutes_from_midnight": "666",
+
+      "content": "1 hour ago",
+      "id": 634
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:07:45.678Z",
+      "time": "11:07:45",
+      "minutes_from_midnight": "667",
+
+      "content": "1 hour ago",
+      "id": 635
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:08:45.686Z",
+      "time": "11:08:45",
+      "minutes_from_midnight": "668",
+
+      "content": "1 hour ago",
+      "id": 636
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:09:45.698Z",
+      "time": "11:09:45",
+      "minutes_from_midnight": "669",
+
+      "content": "1 hour ago",
+      "id": 637
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:10:45.694Z",
+      "time": "11:10:45",
+      "minutes_from_midnight": "670",
+
+      "content": "1 hour ago",
+      "id": 638
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:11:45.629Z",
+      "time": "11:11:45",
+      "minutes_from_midnight": "671",
+
+      "content": "1 hour ago",
+      "id": 639
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:12:45.809Z",
+      "time": "11:12:45",
+      "minutes_from_midnight": "672",
+
+      "content": "1 hour ago",
+      "id": 640
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:13:45.701Z",
+      "time": "11:13:45",
+      "minutes_from_midnight": "673",
+
+      "content": "1 hour ago",
+      "id": 641
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:14:45.557Z",
+      "time": "11:14:45",
+      "minutes_from_midnight": "674",
+
+      "content": "1 hour ago",
+      "id": 642
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:15:45.880Z",
+      "time": "11:15:45",
+      "minutes_from_midnight": "675",
+
+      "content": "1 hour ago",
+      "id": 643
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:16:45.642Z",
+      "time": "11:16:45",
+      "minutes_from_midnight": "676",
+
+      "content": "1 hour ago",
+      "id": 644
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:17:45.720Z",
+      "time": "11:17:45",
+      "minutes_from_midnight": "677",
+
+      "content": "1 hour ago",
+      "id": 645
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:18:45.830Z",
+      "time": "11:18:45",
+      "minutes_from_midnight": "678",
+
+      "content": "1 hour ago",
+      "id": 646
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:19:45.751Z",
+      "time": "11:19:45",
+      "minutes_from_midnight": "679",
+
+      "content": "1 hour ago",
+      "id": 647
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:20:45.663Z",
+      "time": "11:20:45",
+      "minutes_from_midnight": "680",
+
+      "content": "1 hour ago",
+      "id": 648
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:21:45.683Z",
+      "time": "11:21:45",
+      "minutes_from_midnight": "681",
+
+      "content": "1 hour ago",
+      "id": 649
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:22:45.820Z",
+      "time": "11:22:45",
+      "minutes_from_midnight": "682",
+
+      "content": "1 hour ago",
+      "id": 650
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:23:45.769Z",
+      "time": "11:23:45",
+      "minutes_from_midnight": "683",
+
+      "content": "1 hour ago",
+      "id": 651
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:24:45.711Z",
+      "time": "11:24:45",
+      "minutes_from_midnight": "684",
+
+      "content": "1 hour ago",
+      "id": 652
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:25:45.243Z",
+      "time": "11:25:45",
+      "minutes_from_midnight": "685",
+
+      "content": "1 hour ago",
+      "id": 653
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:26:45.777Z",
+      "time": "11:26:45",
+      "minutes_from_midnight": "686",
+
+      "content": "1 hour ago",
+      "id": 654
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:27:45.830Z",
+      "time": "11:27:45",
+      "minutes_from_midnight": "687",
+
+      "content": "1 hour ago",
+      "id": 655
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:28:45.796Z",
+      "time": "11:28:45",
+      "minutes_from_midnight": "688",
+
+      "content": "1 hour ago",
+      "id": 656
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:29:45.664Z",
+      "time": "11:29:45",
+      "minutes_from_midnight": "689",
+
+      "content": "1 hour ago",
+      "id": 657
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:30:45.685Z",
+      "time": "11:30:45",
+      "minutes_from_midnight": "690",
+
+      "content": "1 hour ago",
+      "id": 658
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:31:45.735Z",
+      "time": "11:31:45",
+      "minutes_from_midnight": "691",
+
+      "content": "1 hour ago",
+      "id": 659
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:32:45.824Z",
+      "time": "11:32:45",
+      "minutes_from_midnight": "692",
+
+      "content": "1 hour ago",
+      "id": 660
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:33:45.303Z",
+      "time": "11:33:45",
+      "minutes_from_midnight": "693",
+
+      "content": "1 hour ago",
+      "id": 661
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:34:45.702Z",
+      "time": "11:34:45",
+      "minutes_from_midnight": "694",
+
+      "content": "1 hour ago",
+      "id": 662
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:35:45.733Z",
+      "time": "11:35:45",
+      "minutes_from_midnight": "695",
+
+      "content": "1 hour ago",
+      "id": 663
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:36:45.821Z",
+      "time": "11:36:45",
+      "minutes_from_midnight": "696",
+
+      "content": "1 hour ago",
+      "id": 664
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:37:45.685Z",
+      "time": "11:37:45",
+      "minutes_from_midnight": "697",
+
+      "content": "1 hour ago",
+      "id": 665
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:38:45.789Z",
+      "time": "11:38:45",
+      "minutes_from_midnight": "698",
+
+      "content": "1 hour ago",
+      "id": 666
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:39:45.788Z",
+      "time": "11:39:45",
+      "minutes_from_midnight": "699",
+
+      "content": "1 hour ago",
+      "id": 667
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:40:45.615Z",
+      "time": "11:40:45",
+      "minutes_from_midnight": "700",
+
+      "content": "1 hour ago",
+      "id": 668
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:41:45.835Z",
+      "time": "11:41:45",
+      "minutes_from_midnight": "701",
+
+      "content": "1 hour ago",
+      "id": 669
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:42:45.884Z",
+      "time": "11:42:45",
+      "minutes_from_midnight": "702",
+
+      "content": "1 hour ago",
+      "id": 670
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:43:45.775Z",
+      "time": "11:43:45",
+      "minutes_from_midnight": "703",
+
+      "content": "1 hour ago",
+      "id": 671
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:44:45.770Z",
+      "time": "11:44:45",
+      "minutes_from_midnight": "704",
+
+      "content": "1 hour ago",
+      "id": 672
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:45:45.804Z",
+      "time": "11:45:45",
+      "minutes_from_midnight": "705",
+
+      "content": "1 hour ago",
+      "id": 673
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:46:45.708Z",
+      "time": "11:46:45",
+      "minutes_from_midnight": "706",
+
+      "content": "1 hour ago",
+      "id": 674
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:47:45.720Z",
+      "time": "11:47:45",
+      "minutes_from_midnight": "707",
+
+      "content": "1 hour ago",
+      "id": 675
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:48:45.910Z",
+      "time": "11:48:45",
+      "minutes_from_midnight": "708",
+
+      "content": "1 hour ago",
+      "id": 676
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:49:45.776Z",
+      "time": "11:49:45",
+      "minutes_from_midnight": "709",
+
+      "content": "1 hour ago",
+      "id": 677
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:50:45.728Z",
+      "time": "11:50:45",
+      "minutes_from_midnight": "710",
+
+      "content": "1 hour ago",
+      "id": 678
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:51:45.814Z",
+      "time": "11:51:45",
+      "minutes_from_midnight": "711",
+
+      "content": "1 hour ago",
+      "id": 679
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:52:45.806Z",
+      "time": "11:52:45",
+      "minutes_from_midnight": "712",
+
+      "content": "1 hour ago",
+      "id": 680
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:53:45.703Z",
+      "time": "11:53:45",
+      "minutes_from_midnight": "713",
+
+      "content": "1 hour ago",
+      "id": 681
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:54:45.745Z",
+      "time": "11:54:45",
+      "minutes_from_midnight": "714",
+
+      "content": "1 hour ago",
+      "id": 682
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:55:49.901Z",
+      "time": "11:55:49",
+      "minutes_from_midnight": "715",
+
+      "content": "1 hour ago",
+      "id": 683
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:56:45.687Z",
+      "time": "11:56:45",
+      "minutes_from_midnight": "716",
+
+      "content": "1 hour ago",
+      "id": 684
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:57:45.851Z",
+      "time": "11:57:45",
+      "minutes_from_midnight": "717",
+
+      "content": "1 hour ago",
+      "id": 685
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:58:45.279Z",
+      "time": "11:58:45",
+      "minutes_from_midnight": "718",
+
+      "content": "1 hour ago",
+      "id": 686
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T08:59:45.632Z",
+      "time": "11:59:45",
+      "minutes_from_midnight": "719",
+
+      "content": "1 hour ago",
+      "id": 687
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:00:45.731Z",
+      "time": "12:00:45",
+      "minutes_from_midnight": "720",
+
+      "content": "1 hour ago",
+      "id": 688
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:01:45.757Z",
+      "time": "12:01:45",
+      "minutes_from_midnight": "721",
+
+      "content": "1 hour ago",
+      "id": 689
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:02:45.835Z",
+      "time": "12:02:45",
+      "minutes_from_midnight": "722",
+
+      "content": "1 hour ago",
+      "id": 690
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:03:45.266Z",
+      "time": "12:03:45",
+      "minutes_from_midnight": "723",
+
+      "content": "1 hour ago",
+      "id": 691
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:04:45.779Z",
+      "time": "12:04:45",
+      "minutes_from_midnight": "724",
+
+      "content": "1 hour ago",
+      "id": 692
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:05:45.668Z",
+      "time": "12:05:45",
+      "minutes_from_midnight": "725",
+
+      "content": "1 hour ago",
+      "id": 693
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:06:45.723Z",
+      "time": "12:06:45",
+      "minutes_from_midnight": "726",
+
+      "content": "1 hour ago",
+      "id": 694
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:07:45.334Z",
+      "time": "12:07:45",
+      "minutes_from_midnight": "727",
+
+      "content": "1 hour ago",
+      "id": 695
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:08:45.343Z",
+      "time": "12:08:45",
+      "minutes_from_midnight": "728",
+
+      "content": "1 hour ago",
+      "id": 696
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:09:45.748Z",
+      "time": "12:09:45",
+      "minutes_from_midnight": "729",
+
+      "content": "1 hour ago",
+      "id": 697
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:10:45.845Z",
+      "time": "12:10:45",
+      "minutes_from_midnight": "730",
+
+      "content": "1 hour ago",
+      "id": 698
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:11:45.693Z",
+      "time": "12:11:45",
+      "minutes_from_midnight": "731",
+
+      "content": "1 hour ago",
+      "id": 699
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:12:45.800Z",
+      "time": "12:12:45",
+      "minutes_from_midnight": "732",
+
+      "content": "1 hour ago",
+      "id": 700
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:13:45.721Z",
+      "time": "12:13:45",
+      "minutes_from_midnight": "733",
+
+      "content": "1 hour ago",
+      "id": 701
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:14:45.843Z",
+      "time": "12:14:45",
+      "minutes_from_midnight": "734",
+
+      "content": "1 hour ago",
+      "id": 702
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:15:45.398Z",
+      "time": "12:15:45",
+      "minutes_from_midnight": "735",
+
+      "content": "1 hour ago",
+      "id": 703
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:16:45.384Z",
+      "time": "12:16:45",
+      "minutes_from_midnight": "736",
+
+      "content": "1 hour ago",
+      "id": 704
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:17:45.680Z",
+      "time": "12:17:45",
+      "minutes_from_midnight": "737",
+
+      "content": "1 hour ago",
+      "id": 705
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:18:45.930Z",
+      "time": "12:18:45",
+      "minutes_from_midnight": "738",
+
+      "content": "1 hour ago",
+      "id": 706
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:19:45.962Z",
+      "time": "12:19:45",
+      "minutes_from_midnight": "739",
+
+      "content": "1 hour ago",
+      "id": 707
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:20:45.942Z",
+      "time": "12:20:45",
+      "minutes_from_midnight": "740",
+
+      "content": "1 hour ago",
+      "id": 708
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:21:45.875Z",
+      "time": "12:21:45",
+      "minutes_from_midnight": "741",
+
+      "content": "1 hour ago",
+      "id": 709
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:22:45.762Z",
+      "time": "12:22:45",
+      "minutes_from_midnight": "742",
+
+      "content": "1 hour ago",
+      "id": 710
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:23:46.012Z",
+      "time": "12:23:46",
+      "minutes_from_midnight": "743",
+
+      "content": "1 hour ago",
+      "id": 711
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:24:46.002Z",
+      "time": "12:24:46",
+      "minutes_from_midnight": "744",
+
+      "content": "1 hour ago",
+      "id": 712
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:25:45.886Z",
+      "time": "12:25:45",
+      "minutes_from_midnight": "745",
+
+      "content": "1 hour ago",
+      "id": 713
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:26:45.936Z",
+      "time": "12:26:45",
+      "minutes_from_midnight": "746",
+
+      "content": "1 hour ago",
+      "id": 714
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:27:45.904Z",
+      "time": "12:27:45",
+      "minutes_from_midnight": "747",
+
+      "content": "1 hour ago",
+      "id": 715
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:28:46.012Z",
+      "time": "12:28:46",
+      "minutes_from_midnight": "748",
+
+      "content": "1 hour ago",
+      "id": 716
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:29:45.943Z",
+      "time": "12:29:45",
+      "minutes_from_midnight": "749",
+
+      "content": "1 hour ago",
+      "id": 717
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T09:30:46.055Z",
+      "time": "12:30:46",
+      "minutes_from_midnight": "750",
+
+      "content": "56 minutes ago",
+      "id": 718
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T09:31:45.949Z",
+      "time": "12:31:45",
+      "minutes_from_midnight": "751",
+
+      "content": "56 minutes ago",
+      "id": 719
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T09:32:45.850Z",
+      "time": "12:32:45",
+      "minutes_from_midnight": "752",
+
+      "content": "56 minutes ago",
+      "id": 720
+    },
+    {
+      "point": "56",
+      "date": "2017-02-09T09:33:46.016Z",
+      "time": "12:33:46",
+      "minutes_from_midnight": "753",
+
+      "content": "56 minutes ago",
+      "id": 721
+    },
+    {
+      "point": "58",
+      "date": "2017-02-09T09:34:46.011Z",
+      "time": "12:34:46",
+      "minutes_from_midnight": "754",
+
+      "content": "58 minutes ago",
+      "id": 722
+    },
+    {
+      "point": "58",
+      "date": "2017-02-09T09:35:45.989Z",
+      "time": "12:35:45",
+      "minutes_from_midnight": "755",
+
+      "content": "58 minutes ago",
+      "id": 723
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:36:45.474Z",
+      "time": "12:36:45",
+      "minutes_from_midnight": "756",
+
+      "content": "1 hour ago",
+      "id": 724
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:37:46.081Z",
+      "time": "12:37:46",
+      "minutes_from_midnight": "757",
+
+      "content": "1 hour ago",
+      "id": 725
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:38:45.990Z",
+      "time": "12:38:45",
+      "minutes_from_midnight": "758",
+
+      "content": "1 hour ago",
+      "id": 726
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:39:45.996Z",
+      "time": "12:39:45",
+      "minutes_from_midnight": "759",
+
+      "content": "1 hour ago",
+      "id": 727
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:40:46.108Z",
+      "time": "12:40:46",
+      "minutes_from_midnight": "760",
+
+      "content": "1 hour ago",
+      "id": 728
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:41:46.119Z",
+      "time": "12:41:46",
+      "minutes_from_midnight": "761",
+
+      "content": "1 hour ago",
+      "id": 729
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:42:46.093Z",
+      "time": "12:42:46",
+      "minutes_from_midnight": "762",
+
+      "content": "1 hour ago",
+      "id": 730
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:43:46.071Z",
+      "time": "12:43:46",
+      "minutes_from_midnight": "763",
+
+      "content": "1 hour ago",
+      "id": 731
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:44:46.626Z",
+      "time": "12:44:46",
+      "minutes_from_midnight": "764",
+
+      "content": "1 hour ago",
+      "id": 732
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:45:46.027Z",
+      "time": "12:45:46",
+      "minutes_from_midnight": "765",
+
+      "content": "1 hour ago",
+      "id": 733
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:46:46.137Z",
+      "time": "12:46:46",
+      "minutes_from_midnight": "766",
+
+      "content": "1 hour ago",
+      "id": 734
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:47:46.075Z",
+      "time": "12:47:46",
+      "minutes_from_midnight": "767",
+
+      "content": "1 hour ago",
+      "id": 735
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:48:46.484Z",
+      "time": "12:48:46",
+      "minutes_from_midnight": "768",
+
+      "content": "1 hour ago",
+      "id": 736
+    },
+    {
+      "point": "60",
+      "date": "2017-02-09T09:49:46.076Z",
+      "time": "12:49:46",
+      "minutes_from_midnight": "769",
+
+      "content": "1 hour ago",
+      "id": 737
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T09:50:46.070Z",
+      "time": "12:50:46",
+      "minutes_from_midnight": "770",
+
+      "content": "54 minutes ago",
+      "id": 738
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T09:51:46.202Z",
+      "time": "12:51:46",
+      "minutes_from_midnight": "771",
+
+      "content": "54 minutes ago",
+      "id": 739
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T09:52:46.145Z",
+      "time": "12:52:46",
+      "minutes_from_midnight": "772",
+
+      "content": "55 minutes ago",
+      "id": 740
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T09:53:46.068Z",
+      "time": "12:53:46",
+      "minutes_from_midnight": "773",
+
+      "content": "55 minutes ago",
+      "id": 741
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T09:54:46.119Z",
+      "time": "12:54:46",
+      "minutes_from_midnight": "774",
+
+      "content": "54 minutes ago",
+      "id": 742
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T09:55:46.237Z",
+      "time": "12:55:46",
+      "minutes_from_midnight": "775",
+
+      "content": "54 minutes ago",
+      "id": 743
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T09:56:46.029Z",
+      "time": "12:56:46",
+      "minutes_from_midnight": "776",
+
+      "content": "55 minutes ago",
+      "id": 744
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T09:57:46.061Z",
+      "time": "12:57:46",
+      "minutes_from_midnight": "777",
+
+      "content": "55 minutes ago",
+      "id": 745
+    },
+    {
+      "point": "57",
+      "date": "2017-02-09T09:58:45.616Z",
+      "time": "12:58:45",
+      "minutes_from_midnight": "778",
+
+      "content": "57 minutes ago",
+      "id": 746
+    },
+    {
+      "point": "57",
+      "date": "2017-02-09T09:59:45.701Z",
+      "time": "12:59:45",
+      "minutes_from_midnight": "779",
+
+      "content": "57 minutes ago",
+      "id": 747
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T10:00:46.123Z",
+      "time": "13:00:46",
+      "minutes_from_midnight": "780",
+
+      "content": "55 minutes ago",
+      "id": 748
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T10:01:46.612Z",
+      "time": "13:01:46",
+      "minutes_from_midnight": "781",
+
+      "content": "55 minutes ago",
+      "id": 749
+    },
+    {
+      "point": "53",
+      "date": "2017-02-09T10:02:46.195Z",
+      "time": "13:02:46",
+      "minutes_from_midnight": "782",
+
+      "content": "53 minutes ago",
+      "id": 750
+    },
+    {
+      "point": "53",
+      "date": "2017-02-09T10:03:46.165Z",
+      "time": "13:03:46",
+      "minutes_from_midnight": "783",
+
+      "content": "53 minutes ago",
+      "id": 751
+    },
+    {
+      "point": "51",
+      "date": "2017-02-09T10:04:46.228Z",
+      "time": "13:04:46",
+      "minutes_from_midnight": "784",
+
+      "content": "51 minutes ago",
+      "id": 752
+    },
+    {
+      "point": "51",
+      "date": "2017-02-09T10:05:46.069Z",
+      "time": "13:05:46",
+      "minutes_from_midnight": "785",
+
+      "content": "51 minutes ago",
+      "id": 753
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T10:06:46.245Z",
+      "time": "13:06:46",
+      "minutes_from_midnight": "786",
+
+      "content": "52 minutes ago",
+      "id": 754
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T10:07:46.063Z",
+      "time": "13:07:46",
+      "minutes_from_midnight": "787",
+
+      "content": "52 minutes ago",
+      "id": 755
+    },
+    {
+      "point": "51",
+      "date": "2017-02-09T10:08:46.155Z",
+      "time": "13:08:46",
+      "minutes_from_midnight": "788",
+
+      "content": "51 minutes ago",
+      "id": 756
+    },
+    {
+      "point": "51",
+      "date": "2017-02-09T10:09:45.790Z",
+      "time": "13:09:45",
+      "minutes_from_midnight": "789",
+
+      "content": "51 minutes ago",
+      "id": 757
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T10:10:46.273Z",
+      "time": "13:10:46",
+      "minutes_from_midnight": "790",
+
+      "content": "52 minutes ago",
+      "id": 758
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T10:11:46.254Z",
+      "time": "13:11:46",
+      "minutes_from_midnight": "791",
+
+      "content": "52 minutes ago",
+      "id": 759
+    },
+    {
+      "point": "52",
+      "date": "2017-02-09T10:12:46.229Z",
+      "time": "13:12:46",
+      "minutes_from_midnight": "792",
+
+      "content": "52 minutes ago",
+      "id": 760
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T10:13:46.054Z",
+      "time": "13:13:46",
+      "minutes_from_midnight": "793",
+
+      "content": "48 minutes ago",
+      "id": 761
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T10:14:46.264Z",
+      "time": "13:14:46",
+      "minutes_from_midnight": "794",
+
+      "content": "48 minutes ago",
+      "id": 762
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:15:46.239Z",
+      "time": "13:15:46",
+      "minutes_from_midnight": "795",
+
+      "content": "46 minutes ago",
+      "id": 763
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:16:46.183Z",
+      "time": "13:16:46",
+      "minutes_from_midnight": "796",
+
+      "content": "46 minutes ago",
+      "id": 764
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:17:46.251Z",
+      "time": "13:17:46",
+      "minutes_from_midnight": "797",
+
+      "content": "46 minutes ago",
+      "id": 765
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:18:46.194Z",
+      "time": "13:18:46",
+      "minutes_from_midnight": "798",
+
+      "content": "46 minutes ago",
+      "id": 766
+    },
+    {
+      "point": "47",
+      "date": "2017-02-09T10:19:46.307Z",
+      "time": "13:19:46",
+      "minutes_from_midnight": "799",
+
+      "content": "47 minutes ago",
+      "id": 767
+    },
+    {
+      "point": "47",
+      "date": "2017-02-09T10:20:46.282Z",
+      "time": "13:20:46",
+      "minutes_from_midnight": "800",
+
+      "content": "47 minutes ago",
+      "id": 768
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T10:21:46.256Z",
+      "time": "13:21:46",
+      "minutes_from_midnight": "801",
+
+      "content": "41 minutes ago",
+      "id": 769
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T10:22:45.839Z",
+      "time": "13:22:45",
+      "minutes_from_midnight": "802",
+
+      "content": "41 minutes ago",
+      "id": 770
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:23:46.283Z",
+      "time": "13:23:46",
+      "minutes_from_midnight": "803",
+
+      "content": "40 minutes ago",
+      "id": 771
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:24:46.223Z",
+      "time": "13:24:46",
+      "minutes_from_midnight": "804",
+
+      "content": "40 minutes ago",
+      "id": 772
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T10:25:46.241Z",
+      "time": "13:25:46",
+      "minutes_from_midnight": "805",
+
+      "content": "42 minutes ago",
+      "id": 773
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T10:26:46.182Z",
+      "time": "13:26:46",
+      "minutes_from_midnight": "806",
+
+      "content": "42 minutes ago",
+      "id": 774
+    },
+    {
+      "point": "39",
+      "date": "2017-02-09T10:27:46.243Z",
+      "time": "13:27:46",
+      "minutes_from_midnight": "807",
+
+      "content": "39 minutes ago",
+      "id": 775
+    },
+    {
+      "point": "39",
+      "date": "2017-02-09T10:28:50.904Z",
+      "time": "13:28:50",
+      "minutes_from_midnight": "808",
+
+      "content": "39 minutes ago",
+      "id": 776
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T10:29:45.721Z",
+      "time": "13:29:45",
+      "minutes_from_midnight": "809",
+
+      "content": "38 minutes ago",
+      "id": 777
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T10:30:46.142Z",
+      "time": "13:30:46",
+      "minutes_from_midnight": "810",
+
+      "content": "38 minutes ago",
+      "id": 778
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:31:46.156Z",
+      "time": "13:31:46",
+      "minutes_from_midnight": "811",
+
+      "content": "40 minutes ago",
+      "id": 779
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:32:46.115Z",
+      "time": "13:32:46",
+      "minutes_from_midnight": "812",
+
+      "content": "40 minutes ago",
+      "id": 780
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:33:46.188Z",
+      "time": "13:33:46",
+      "minutes_from_midnight": "813",
+
+      "content": "40 minutes ago",
+      "id": 781
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:34:46.198Z",
+      "time": "13:34:46",
+      "minutes_from_midnight": "814",
+
+      "content": "40 minutes ago",
+      "id": 782
+    },
+    {
+      "point": "39",
+      "date": "2017-02-09T10:35:46.256Z",
+      "time": "13:35:46",
+      "minutes_from_midnight": "815",
+
+      "content": "39 minutes ago",
+      "id": 783
+    },
+    {
+      "point": "39",
+      "date": "2017-02-09T10:36:46.254Z",
+      "time": "13:36:46",
+      "minutes_from_midnight": "816",
+
+      "content": "39 minutes ago",
+      "id": 784
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T10:37:46.243Z",
+      "time": "13:37:46",
+      "minutes_from_midnight": "817",
+
+      "content": "38 minutes ago",
+      "id": 785
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T10:38:46.204Z",
+      "time": "13:38:46",
+      "minutes_from_midnight": "818",
+
+      "content": "38 minutes ago",
+      "id": 786
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:39:46.401Z",
+      "time": "13:39:46",
+      "minutes_from_midnight": "819",
+
+      "content": "40 minutes ago",
+      "id": 787
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T10:40:46.236Z",
+      "time": "13:40:46",
+      "minutes_from_midnight": "820",
+
+      "content": "40 minutes ago",
+      "id": 788
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T10:41:45.742Z",
+      "time": "13:41:45",
+      "minutes_from_midnight": "821",
+
+      "content": "42 minutes ago",
+      "id": 789
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T10:42:46.169Z",
+      "time": "13:42:46",
+      "minutes_from_midnight": "822",
+
+      "content": "42 minutes ago",
+      "id": 790
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T10:43:46.210Z",
+      "time": "13:43:46",
+      "minutes_from_midnight": "823",
+
+      "content": "44 minutes ago",
+      "id": 791
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T10:44:46.298Z",
+      "time": "13:44:46",
+      "minutes_from_midnight": "824",
+
+      "content": "44 minutes ago",
+      "id": 792
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:45:46.287Z",
+      "time": "13:45:46",
+      "minutes_from_midnight": "825",
+
+      "content": "45 minutes ago",
+      "id": 793
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:46:46.297Z",
+      "time": "13:46:46",
+      "minutes_from_midnight": "826",
+
+      "content": "45 minutes ago",
+      "id": 794
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:47:46.273Z",
+      "time": "13:47:46",
+      "minutes_from_midnight": "827",
+
+      "content": "46 minutes ago",
+      "id": 795
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:48:46.236Z",
+      "time": "13:48:46",
+      "minutes_from_midnight": "828",
+
+      "content": "46 minutes ago",
+      "id": 796
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:49:46.276Z",
+      "time": "13:49:46",
+      "minutes_from_midnight": "829",
+
+      "content": "46 minutes ago",
+      "id": 797
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T10:50:46.231Z",
+      "time": "13:50:46",
+      "minutes_from_midnight": "830",
+
+      "content": "46 minutes ago",
+      "id": 798
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T10:51:46.201Z",
+      "time": "13:51:46",
+      "minutes_from_midnight": "831",
+
+      "content": "48 minutes ago",
+      "id": 799
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T10:52:46.251Z",
+      "time": "13:52:46",
+      "minutes_from_midnight": "832",
+
+      "content": "48 minutes ago",
+      "id": 800
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:53:45.844Z",
+      "time": "13:53:45",
+      "minutes_from_midnight": "833",
+
+      "content": "45 minutes ago",
+      "id": 801
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:54:46.340Z",
+      "time": "13:54:46",
+      "minutes_from_midnight": "834",
+
+      "content": "45 minutes ago",
+      "id": 802
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T10:55:46.326Z",
+      "time": "13:55:46",
+      "minutes_from_midnight": "835",
+
+      "content": "43 minutes ago",
+      "id": 803
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T10:56:46.220Z",
+      "time": "13:56:46",
+      "minutes_from_midnight": "836",
+
+      "content": "43 minutes ago",
+      "id": 804
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:57:46.384Z",
+      "time": "13:57:46",
+      "minutes_from_midnight": "837",
+
+      "content": "45 minutes ago",
+      "id": 805
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:58:46.362Z",
+      "time": "13:58:46",
+      "minutes_from_midnight": "838",
+
+      "content": "45 minutes ago",
+      "id": 806
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T10:59:46.253Z",
+      "time": "13:59:46",
+      "minutes_from_midnight": "839",
+
+      "content": "45 minutes ago",
+      "id": 807
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T11:00:46.184Z",
+      "time": "14:00:46",
+      "minutes_from_midnight": "840",
+
+      "content": "45 minutes ago",
+      "id": 808
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T11:01:46.258Z",
+      "time": "14:01:46",
+      "minutes_from_midnight": "841",
+
+      "content": "46 minutes ago",
+      "id": 809
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T11:02:46.334Z",
+      "time": "14:02:46",
+      "minutes_from_midnight": "842",
+
+      "content": "46 minutes ago",
+      "id": 810
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T11:03:46.252Z",
+      "time": "14:03:46",
+      "minutes_from_midnight": "843",
+
+      "content": "48 minutes ago",
+      "id": 811
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T11:04:46.650Z",
+      "time": "14:04:46",
+      "minutes_from_midnight": "844",
+
+      "content": "48 minutes ago",
+      "id": 812
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T11:05:46.303Z",
+      "time": "14:05:46",
+      "minutes_from_midnight": "845",
+
+      "content": "48 minutes ago",
+      "id": 813
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T11:06:46.304Z",
+      "time": "14:06:46",
+      "minutes_from_midnight": "846",
+
+      "content": "48 minutes ago",
+      "id": 814
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T11:07:46.453Z",
+      "time": "14:07:46",
+      "minutes_from_midnight": "847",
+
+      "content": "48 minutes ago",
+      "id": 815
+    },
+    {
+      "point": "48",
+      "date": "2017-02-09T11:08:46.336Z",
+      "time": "14:08:46",
+      "minutes_from_midnight": "848",
+
+      "content": "48 minutes ago",
+      "id": 816
+    },
+    {
+      "point": "49",
+      "date": "2017-02-09T11:09:46.557Z",
+      "time": "14:09:46",
+      "minutes_from_midnight": "849",
+
+      "content": "49 minutes ago",
+      "id": 817
+    },
+    {
+      "point": "49",
+      "date": "2017-02-09T11:10:46.178Z",
+      "time": "14:10:46",
+      "minutes_from_midnight": "850",
+
+      "content": "49 minutes ago",
+      "id": 818
+    },
+    {
+      "point": "51",
+      "date": "2017-02-09T11:11:46.167Z",
+      "time": "14:11:46",
+      "minutes_from_midnight": "851",
+
+      "content": "51 minutes ago",
+      "id": 819
+    },
+    {
+      "point": "51",
+      "date": "2017-02-09T11:12:46.297Z",
+      "time": "14:12:46",
+      "minutes_from_midnight": "852",
+
+      "content": "51 minutes ago",
+      "id": 820
+    },
+    {
+      "point": "53",
+      "date": "2017-02-09T11:13:46.325Z",
+      "time": "14:13:46",
+      "minutes_from_midnight": "853",
+
+      "content": "53 minutes ago",
+      "id": 821
+    },
+    {
+      "point": "53",
+      "date": "2017-02-09T11:14:45.802Z",
+      "time": "14:14:45",
+      "minutes_from_midnight": "854",
+
+      "content": "53 minutes ago",
+      "id": 822
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T11:15:46.300Z",
+      "time": "14:15:46",
+      "minutes_from_midnight": "855",
+
+      "content": "55 minutes ago",
+      "id": 823
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T11:16:46.273Z",
+      "time": "14:16:46",
+      "minutes_from_midnight": "856",
+
+      "content": "55 minutes ago",
+      "id": 824
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T11:17:46.409Z",
+      "time": "14:17:46",
+      "minutes_from_midnight": "857",
+
+      "content": "55 minutes ago",
+      "id": 825
+    },
+    {
+      "point": "55",
+      "date": "2017-02-09T11:18:46.333Z",
+      "time": "14:18:46",
+      "minutes_from_midnight": "858",
+
+      "content": "55 minutes ago",
+      "id": 826
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T11:19:45.896Z",
+      "time": "14:19:45",
+      "minutes_from_midnight": "859",
+
+      "content": "54 minutes ago",
+      "id": 827
+    },
+    {
+      "point": "54",
+      "date": "2017-02-09T11:20:46.269Z",
+      "time": "14:20:46",
+      "minutes_from_midnight": "860",
+
+      "content": "54 minutes ago",
+      "id": 828
+    },
+    {
+      "point": "53",
+      "date": "2017-02-09T11:21:48.040Z",
+      "time": "14:21:48",
+      "minutes_from_midnight": "861",
+
+      "content": "53 minutes ago",
+      "id": 829
+    },
+    {
+      "point": "53",
+      "date": "2017-02-09T11:22:45.800Z",
+      "time": "14:22:45",
+      "minutes_from_midnight": "862",
+
+      "content": "53 minutes ago",
+      "id": 830
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T11:23:46.351Z",
+      "time": "14:23:46",
+      "minutes_from_midnight": "863",
+
+      "content": "50 minutes ago",
+      "id": 831
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T11:24:46.413Z",
+      "time": "14:24:46",
+      "minutes_from_midnight": "864",
+
+      "content": "50 minutes ago",
+      "id": 832
+    },
+    {
+      "point": "50",
+      "date": "2017-02-09T11:25:45.843Z",
+      "time": "14:25:45",
+      "minutes_from_midnight": "865",
+
+      "content": "50 minutes ago",
+      "id": 833
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T11:26:45.794Z",
+      "time": "14:26:45",
+      "minutes_from_midnight": "866",
+
+      "content": "44 minutes ago",
+      "id": 834
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T11:27:46.428Z",
+      "time": "14:27:46",
+      "minutes_from_midnight": "867",
+
+      "content": "44 minutes ago",
+      "id": 835
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T11:28:46.426Z",
+      "time": "14:28:46",
+      "minutes_from_midnight": "868",
+
+      "content": "43 minutes ago",
+      "id": 836
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T11:29:46.485Z",
+      "time": "14:29:46",
+      "minutes_from_midnight": "869",
+
+      "content": "43 minutes ago",
+      "id": 837
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T11:30:46.275Z",
+      "time": "14:30:46",
+      "minutes_from_midnight": "870",
+
+      "content": "41 minutes ago",
+      "id": 838
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T11:31:46.494Z",
+      "time": "14:31:46",
+      "minutes_from_midnight": "871",
+
+      "content": "41 minutes ago",
+      "id": 839
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T11:32:46.297Z",
+      "time": "14:32:46",
+      "minutes_from_midnight": "872",
+
+      "content": "43 minutes ago",
+      "id": 840
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T11:33:46.453Z",
+      "time": "14:33:46",
+      "minutes_from_midnight": "873",
+
+      "content": "43 minutes ago",
+      "id": 841
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T11:34:45.876Z",
+      "time": "14:34:45",
+      "minutes_from_midnight": "874",
+
+      "content": "45 minutes ago",
+      "id": 842
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T11:35:46.393Z",
+      "time": "14:35:46",
+      "minutes_from_midnight": "875",
+
+      "content": "45 minutes ago",
+      "id": 843
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T11:36:46.723Z",
+      "time": "14:36:46",
+      "minutes_from_midnight": "876",
+
+      "content": "42 minutes ago",
+      "id": 844
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T11:37:46.377Z",
+      "time": "14:37:46",
+      "minutes_from_midnight": "877",
+
+      "content": "42 minutes ago",
+      "id": 845
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T11:38:46.449Z",
+      "time": "14:38:46",
+      "minutes_from_midnight": "878",
+
+      "content": "44 minutes ago",
+      "id": 846
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T11:39:46.363Z",
+      "time": "14:39:46",
+      "minutes_from_midnight": "879",
+
+      "content": "44 minutes ago",
+      "id": 847
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T11:40:46.496Z",
+      "time": "14:40:46",
+      "minutes_from_midnight": "880",
+
+      "content": "46 minutes ago",
+      "id": 848
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T11:41:46.398Z",
+      "time": "14:41:46",
+      "minutes_from_midnight": "881",
+
+      "content": "46 minutes ago",
+      "id": 849
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T11:42:46.427Z",
+      "time": "14:42:46",
+      "minutes_from_midnight": "882",
+
+      "content": "44 minutes ago",
+      "id": 850
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T11:43:46.408Z",
+      "time": "14:43:46",
+      "minutes_from_midnight": "883",
+
+      "content": "44 minutes ago",
+      "id": 851
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:44:45.983Z",
+      "time": "14:44:45",
+      "minutes_from_midnight": "884",
+
+      "content": "40 minutes ago",
+      "id": 852
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:45:46.486Z",
+      "time": "14:45:46",
+      "minutes_from_midnight": "885",
+
+      "content": "40 minutes ago",
+      "id": 853
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:46:46.591Z",
+      "time": "14:46:46",
+      "minutes_from_midnight": "886",
+
+      "content": "40 minutes ago",
+      "id": 854
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:47:46.593Z",
+      "time": "14:47:46",
+      "minutes_from_midnight": "887",
+
+      "content": "40 minutes ago",
+      "id": 855
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:48:46.446Z",
+      "time": "14:48:46",
+      "minutes_from_midnight": "888",
+
+      "content": "40 minutes ago",
+      "id": 856
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:49:46.127Z",
+      "time": "14:49:46",
+      "minutes_from_midnight": "889",
+
+      "content": "40 minutes ago",
+      "id": 857
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:50:46.521Z",
+      "time": "14:50:46",
+      "minutes_from_midnight": "890",
+
+      "content": "40 minutes ago",
+      "id": 858
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T11:51:46.605Z",
+      "time": "14:51:46",
+      "minutes_from_midnight": "891",
+
+      "content": "40 minutes ago",
+      "id": 859
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T11:52:46.455Z",
+      "time": "14:52:46",
+      "minutes_from_midnight": "892",
+
+      "content": "36 minutes ago",
+      "id": 860
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T11:53:46.531Z",
+      "time": "14:53:46",
+      "minutes_from_midnight": "893",
+
+      "content": "36 minutes ago",
+      "id": 861
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T11:54:46.465Z",
+      "time": "14:54:46",
+      "minutes_from_midnight": "894",
+
+      "content": "38 minutes ago",
+      "id": 862
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T11:55:46.518Z",
+      "time": "14:55:46",
+      "minutes_from_midnight": "895",
+
+      "content": "38 minutes ago",
+      "id": 863
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T11:56:46.593Z",
+      "time": "14:56:46",
+      "minutes_from_midnight": "896",
+
+      "content": "36 minutes ago",
+      "id": 864
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T11:57:46.472Z",
+      "time": "14:57:46",
+      "minutes_from_midnight": "897",
+
+      "content": "36 minutes ago",
+      "id": 865
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T11:58:46.567Z",
+      "time": "14:58:46",
+      "minutes_from_midnight": "898",
+
+      "content": "38 minutes ago",
+      "id": 866
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T11:59:47.848Z",
+      "time": "14:59:47",
+      "minutes_from_midnight": "899",
+
+      "content": "38 minutes ago",
+      "id": 867
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T12:00:46.627Z",
+      "time": "15:00:46",
+      "minutes_from_midnight": "900",
+
+      "content": "40 minutes ago",
+      "id": 868
+    },
+    {
+      "point": "40",
+      "date": "2017-02-09T12:01:46.027Z",
+      "time": "15:01:46",
+      "minutes_from_midnight": "901",
+
+      "content": "40 minutes ago",
+      "id": 869
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T12:02:46.533Z",
+      "time": "15:02:46",
+      "minutes_from_midnight": "902",
+
+      "content": "42 minutes ago",
+      "id": 870
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T12:03:46.605Z",
+      "time": "15:03:46",
+      "minutes_from_midnight": "903",
+
+      "content": "42 minutes ago",
+      "id": 871
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T12:04:46.643Z",
+      "time": "15:04:46",
+      "minutes_from_midnight": "904",
+
+      "content": "44 minutes ago",
+      "id": 872
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T12:05:46.667Z",
+      "time": "15:05:46",
+      "minutes_from_midnight": "905",
+
+      "content": "44 minutes ago",
+      "id": 873
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T12:06:46.611Z",
+      "time": "15:06:46",
+      "minutes_from_midnight": "906",
+
+      "content": "43 minutes ago",
+      "id": 874
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T12:07:46.563Z",
+      "time": "15:07:46",
+      "minutes_from_midnight": "907",
+
+      "content": "43 minutes ago",
+      "id": 875
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:08:46.708Z",
+      "time": "15:08:46",
+      "minutes_from_midnight": "908",
+
+      "content": "45 minutes ago",
+      "id": 876
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:09:46.445Z",
+      "time": "15:09:46",
+      "minutes_from_midnight": "909",
+
+      "content": "45 minutes ago",
+      "id": 877
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:10:46.580Z",
+      "time": "15:10:46",
+      "minutes_from_midnight": "910",
+
+      "content": "45 minutes ago",
+      "id": 878
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:11:46.738Z",
+      "time": "15:11:46",
+      "minutes_from_midnight": "911",
+
+      "content": "45 minutes ago",
+      "id": 879
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T12:12:46.970Z",
+      "time": "15:12:46",
+      "minutes_from_midnight": "912",
+
+      "content": "46 minutes ago",
+      "id": 880
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T12:13:46.228Z",
+      "time": "15:13:46",
+      "minutes_from_midnight": "913",
+
+      "content": "46 minutes ago",
+      "id": 881
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T12:14:46.662Z",
+      "time": "15:14:46",
+      "minutes_from_midnight": "914",
+
+      "content": "44 minutes ago",
+      "id": 882
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T12:15:46.752Z",
+      "time": "15:15:46",
+      "minutes_from_midnight": "915",
+
+      "content": "44 minutes ago",
+      "id": 883
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T12:16:46.533Z",
+      "time": "15:16:46",
+      "minutes_from_midnight": "916",
+
+      "content": "41 minutes ago",
+      "id": 884
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T12:17:46.648Z",
+      "time": "15:17:46",
+      "minutes_from_midnight": "917",
+
+      "content": "41 minutes ago",
+      "id": 885
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T12:18:46.649Z",
+      "time": "15:18:46",
+      "minutes_from_midnight": "918",
+
+      "content": "42 minutes ago",
+      "id": 886
+    },
+    {
+      "point": "42",
+      "date": "2017-02-09T12:19:46.739Z",
+      "time": "15:19:46",
+      "minutes_from_midnight": "919",
+
+      "content": "42 minutes ago",
+      "id": 887
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T12:20:46.675Z",
+      "time": "15:20:46",
+      "minutes_from_midnight": "920",
+
+      "content": "38 minutes ago",
+      "id": 888
+    },
+    {
+      "point": "38",
+      "date": "2017-02-09T12:21:46.702Z",
+      "time": "15:21:46",
+      "minutes_from_midnight": "921",
+
+      "content": "38 minutes ago",
+      "id": 889
+    },
+    {
+      "point": "39",
+      "date": "2017-02-09T12:22:46.502Z",
+      "time": "15:22:46",
+      "minutes_from_midnight": "922",
+
+      "content": "39 minutes ago",
+      "id": 890
+    },
+    {
+      "point": "39",
+      "date": "2017-02-09T12:23:46.195Z",
+      "time": "15:23:46",
+      "minutes_from_midnight": "923",
+
+      "content": "39 minutes ago",
+      "id": 891
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T12:24:46.850Z",
+      "time": "15:24:46",
+      "minutes_from_midnight": "924",
+
+      "content": "41 minutes ago",
+      "id": 892
+    },
+    {
+      "point": "41",
+      "date": "2017-02-09T12:25:46.748Z",
+      "time": "15:25:46",
+      "minutes_from_midnight": "925",
+
+      "content": "41 minutes ago",
+      "id": 893
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T12:26:46.679Z",
+      "time": "15:26:46",
+      "minutes_from_midnight": "926",
+
+      "content": "43 minutes ago",
+      "id": 894
+    },
+    {
+      "point": "43",
+      "date": "2017-02-09T12:27:46.734Z",
+      "time": "15:27:46",
+      "minutes_from_midnight": "927",
+
+      "content": "43 minutes ago",
+      "id": 895
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:28:46.760Z",
+      "time": "15:28:46",
+      "minutes_from_midnight": "928",
+
+      "content": "45 minutes ago",
+      "id": 896
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:29:46.650Z",
+      "time": "15:29:46",
+      "minutes_from_midnight": "929",
+
+      "content": "45 minutes ago",
+      "id": 897
+    },
+    {
+      "point": "47",
+      "date": "2017-02-09T12:30:46.706Z",
+      "time": "15:30:46",
+      "minutes_from_midnight": "930",
+
+      "content": "47 minutes ago",
+      "id": 898
+    },
+    {
+      "point": "47",
+      "date": "2017-02-09T12:31:46.633Z",
+      "time": "15:31:46",
+      "minutes_from_midnight": "931",
+
+      "content": "47 minutes ago",
+      "id": 899
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T12:32:47.146Z",
+      "time": "15:32:47",
+      "minutes_from_midnight": "932",
+
+      "content": "46 minutes ago",
+      "id": 900
+    },
+    {
+      "point": "46",
+      "date": "2017-02-09T12:33:46.762Z",
+      "time": "15:33:46",
+      "minutes_from_midnight": "933",
+
+      "content": "46 minutes ago",
+      "id": 901
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T12:34:46.700Z",
+      "time": "15:34:46",
+      "minutes_from_midnight": "934",
+
+      "content": "44 minutes ago",
+      "id": 902
+    },
+    {
+      "point": "44",
+      "date": "2017-02-09T12:35:46.788Z",
+      "time": "15:35:46",
+      "minutes_from_midnight": "935",
+
+      "content": "44 minutes ago",
+      "id": 903
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:36:46.855Z",
+      "time": "15:36:46",
+      "minutes_from_midnight": "936",
+
+      "content": "45 minutes ago",
+      "id": 904
+    },
+    {
+      "point": "45",
+      "date": "2017-02-09T12:37:46.693Z",
+      "time": "15:37:46",
+      "minutes_from_midnight": "937",
+
+      "content": "45 minutes ago",
+      "id": 905
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:38:46.745Z",
+      "time": "15:38:46",
+      "minutes_from_midnight": "938",
+
+      "content": "36 minutes ago",
+      "id": 906
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:39:46.744Z",
+      "time": "15:39:46",
+      "minutes_from_midnight": "939",
+
+      "content": "36 minutes ago",
+      "id": 907
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:40:46.793Z",
+      "time": "15:40:46",
+      "minutes_from_midnight": "940",
+
+      "content": "36 minutes ago",
+      "id": 908
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:41:46.634Z",
+      "time": "15:41:46",
+      "minutes_from_midnight": "941",
+
+      "content": "36 minutes ago",
+      "id": 909
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:42:46.690Z",
+      "time": "15:42:46",
+      "minutes_from_midnight": "942",
+
+      "content": "36 minutes ago",
+      "id": 910
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:43:46.793Z",
+      "time": "15:43:46",
+      "minutes_from_midnight": "943",
+
+      "content": "36 minutes ago",
+      "id": 911
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:44:46.687Z",
+      "time": "15:44:46",
+      "minutes_from_midnight": "944",
+
+      "content": "36 minutes ago",
+      "id": 912
+    },
+    {
+      "point": "35",
+      "date": "2017-02-09T12:45:46.644Z",
+      "time": "15:45:46",
+      "minutes_from_midnight": "945",
+
+      "content": "35 minutes ago",
+      "id": 913
+    },
+    {
+      "point": "35",
+      "date": "2017-02-09T12:46:46.734Z",
+      "time": "15:46:46",
+      "minutes_from_midnight": "946",
+
+      "content": "35 minutes ago",
+      "id": 914
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:47:46.772Z",
+      "time": "15:47:46",
+      "minutes_from_midnight": "947",
+
+      "content": "36 minutes ago",
+      "id": 915
+    },
+    {
+      "point": "36",
+      "date": "2017-02-09T12:48:46.860Z",
+      "time": "15:48:46",
+      "minutes_from_midnight": "948",
+
+      "content": "36 minutes ago",
+      "id": 916
+    }
+  ]
+}
