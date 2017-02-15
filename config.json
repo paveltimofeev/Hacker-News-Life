@@ -1,0 +1,13 @@
+{
+	"url" : "http://localhost/hackernews.html",
+	"scripts" : [
+		"http://localhost/assets/jquery-2.js"
+	],
+	"storage" : "http://localhost:3004/points/",
+	"info" : "http://localhost:3004/info/",
+	"interval" : 60000,
+  "dbFile": "db.json",
+  "publishRetryDelay": 1000,
+  "publishMaxRetries": 3,
+  "backet": "s3://research.patico.pro/data/hn.json"
+}
