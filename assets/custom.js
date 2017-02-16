@@ -40,7 +40,7 @@ jQuery(function($) {
   });
 
 
-    var chartData = "http://research.patico.pro.s3-website-us-east-1.amazonaws.com/data/hacker-news.json";
+    var chartData = "http://research.patico.pro.s3-website-us-east-1.amazonaws.com/data/hacker-news-dev.json";
     var infoId = '#info';
     var chartId = '#network-monitoring';
     var c_width = '100%';
