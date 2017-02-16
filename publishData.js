@@ -10,11 +10,12 @@ var max_attempts = config.publishMaxRetries;
 
 
 function publish( bucket, key, fileData, cb ){
-  
-  s3.upload( 
-      {Bucket:bucket, Key:key, Body:fileData},
-      {partSize: 10 * 1024 * 1024, queueSize:1},
-      cb );
+    
+  s3.putObject({
+    Bucket: bucket,
+    Key: key,
+    Body: fileData
+  }, cb);
 }
 
 function read( dbFile, cb ){
@@ -54,7 +55,7 @@ function attempt( retry_reason ){
       return ;
     }      
     
-    publish( config.backet, 'key', jsonData, function( err ){
+    publish( config.backet, config.backetFolder, JSON.stringify(jsonData), function( err ){
       
       if(err) {
         
@@ -62,7 +63,7 @@ function attempt( retry_reason ){
         return;
       }      
       
-      console.log(new Date() + 'published successfully')
+      console.log('Published successfully at ' + new Date());
     });
   });
 }

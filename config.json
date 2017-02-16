@@ -9,5 +9,6 @@
   "dbFile": "db.json",
   "publishRetryDelay": 1000,
   "publishMaxRetries": 3,
-  "backet": "s3://research.patico.pro/data/hacker-news.json"
+  "backet": "research.patico.pro",
+  "backetFolder": "data/hacker-news-dev.json"
 }
