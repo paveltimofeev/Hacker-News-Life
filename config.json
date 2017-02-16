@@ -1,7 +1,7 @@
 {
-	"url" : "http://localhost/hackernews.html",
+	"url" : "https://news.ycombinator.com/newest",
 	"scripts" : [
-		"http://localhost/assets/jquery-2.js"
+		"http://code.jquery.com/jquery.js"
 	],
 	"storage" : "http://localhost:3004/points/",
 	"info" : "http://localhost:3004/info/",
@@ -9,5 +9,5 @@
   "dbFile": "db.json",
   "publishRetryDelay": 1000,
   "publishMaxRetries": 3,
-  "backet": "s3://research.patico.pro/data/hn.json"
+  "backet": "s3://research.patico.pro/data/hacker-news.json"
 }
