@@ -8,23 +8,17 @@ console.log( 'config:', config );
 var pattern_m = / minute(s)* ago/
 var pattern_h = / hour(s)* ago/
 
-function extrapolateOverHours( window ){
-    
-    var $ = window.$;
-    var ages = $(".age");
-    var h_index = ages.length;
-    
-    $.each( ages, function(i, age){
-      
-      var text = $(age).text();
-      if( text &&  text.match( pattern_h ) ) {
-        h_index--;
-      }
-    });
-    
-    var avg_step = 60 / h_index;
-    var extrapolated_value = parseInt(60 + (30 - h_index) * avg_step);
-    return extrapolated_value;
+function parsePostTime( body ){
+  
+  var obj = JSON.parse( body || {} );
+  if( !obj )
+    return 0;
+  
+  return obj.time || 0;
+}
+
+function getTimeSpan( fromTime ){
+  return parseInt((new Date().getTime() / 1000 - fromTime ) /60); 
 }
 
 function getMinutesFromMidnight(){
@@ -52,12 +46,10 @@ function parse( cb ){
       var apicall = 'https://hacker-news.firebaseio.com/v0/item/'+id+'.json';
       console.log("apicall:", apicall);
       
-      request.get(apicall, function(err,x,b){
-        
-        var t = JSON.parse(x.body).time;
-        var m = parseInt((new Date().getTime() / 1000 - t ) /60);
+      request.get(apicall, function(err, res ,b){
+
         cb(err, { 
-            point: m, 
+            point: getTimeSpan( parsePostTime(res.body) ), 
             m: getMinutesFromMidnight()
           });
       })
