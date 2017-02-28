@@ -47,20 +47,20 @@ function parse( cb ){
         return cb('window is undef');
       
       var $ = window.$;
-      var content = $(".age :last").text();
-      var m;
-
-      if( content.match( pattern_m ) ) 
-        m = parseInt(content.replace(pattern_m, ''))
-      else if( content.match( pattern_h ) ) 
-        m = 60;
-      else
-        m = 0;
+      
+      var id = $("tr.athing:last").attr("id");
+      var apicall = 'https://hacker-news.firebaseio.com/v0/item/'+id+'.json';
+      console.log("apicall:", apicall);
+      
+      request.get(apicall, function(err,x,b){
         
-      cb(err, { 
-          point: m, 
-          m: getMinutesFromMidnight()
-        });
+        var t = JSON.parse(x.body).time;
+        var m = parseInt((new Date().getTime() / 1000 - t ) /60);
+        cb(err, { 
+            point: m, 
+            m: getMinutesFromMidnight()
+          });
+      })
     }
   });
 }
@@ -90,7 +90,7 @@ function save( err, data ){
       if( err )
         return console.log( err );
 
-      request.put( config.info + '1', {form:{ latest:data.m, timezone: ' EST' }}, function(err, httpResponse, body){ 
+      request.put( config.info + '1', {form:{ latest:data.m, timezone: ' GMT' }}, function(err, httpResponse, body){ 
         console.log( err || data );
       });
       
