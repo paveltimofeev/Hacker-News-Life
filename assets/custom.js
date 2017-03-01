@@ -45,6 +45,7 @@ jQuery(function($) {
     var chartId = '#network-monitoring';
     var c_width = '100%';
     var c_height = '180 ';
+    var offset = parseInt((new Date()).getTimezoneOffset() / 60 * -1);
     
     var setChartData = function ( db ){
     
@@ -53,7 +54,7 @@ jQuery(function($) {
 
       var hasInfo = db.info && db.info.length > 0 && db.info[0];
       var latest = hasInfo ? (db.info[0].latest || 0) : 0;
-      var timezone = hasInfo ? (db.info[0].timezone || ' (EST)') : ' (EST)';
+      var timezone = hasInfo ? (db.info[0].timezone + '+' + offset || ' (GMT)') : ' GMT';
                   
       $(chartId)
       .bind('sparklineRegionChange', function(ev) {
@@ -62,11 +63,15 @@ jQuery(function($) {
           
           if( region.x ) {
             
-            var h = Math.floor(region.x / 60);
-            var m = region.x - 60 * h;
-            var time = h + ( m < 10 ? ':0': ':') + m;
-            var val = region.y + ( region.y == '60' ? '+' : '' );
-            $( infoId ).text( val + ' min at ' + time + timezone );
+            function setInfo( val, mmd ){
+                
+              var h = Math.floor(mmd / 60);
+              var m = mmd - 60 * h;
+              var time = (h + offset) + (m < 10 ? ':0' : ':') + m;
+              $(infoId).text(val + ' min at ' + time + timezone);
+            }
+              
+            setInfo( region.y, region.x );
           }
       });
     
