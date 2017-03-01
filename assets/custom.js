@@ -46,7 +46,6 @@ jQuery(function($) {
     var c_width = '100%';
     var c_height = '180 ';
     var offset = parseInt((new Date()).getTimezoneOffset() / 60 * -1);
-    offset = (offset>=0?'+':'') + offset;
     
     var setChartData = function ( db ){
     
@@ -55,7 +54,7 @@ jQuery(function($) {
 
       var hasInfo = db.info && db.info.length > 0 && db.info[0];
       var latest = hasInfo ? (db.info[0].latest || 0) : 0;
-      var timezone = hasInfo ? (db.info[0].timezone + offset || ' (GMT)') : ' GMT';
+      var timezone = hasInfo ? (db.info[0].timezone + (offset>=0?'+':'') + offset || ' (GMT)') : ' GMT';
                   
       $(chartId)
       .bind('sparklineRegionChange', function(ev) {
