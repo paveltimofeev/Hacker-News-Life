@@ -66,7 +66,7 @@ jQuery(function($) {
             function setInfo( val, mmd ){
                 
               var h = Math.floor(mmd / 60);
-              var h_ = h + offset < 0 ? 24-(h + offset);:h;
+              var h_ = h + offset < 0 ? 24-(h + offset):h;
               var m = mmd - 60 * h;
               var time = h_ + (m < 10 ? ':0' : ':') + m;
               $(infoId).text(val + ' min at ' + time + timezone);
