@@ -48,10 +48,12 @@ function parse( cb ){
       
       request.get(apicall, function(err, res ,b){
 
-        cb(err, { 
-            point: getTimeSpan( parsePostTime(res.body) ), 
-            m: getMinutesFromMidnight()
-          });
+      var point = getTimeSpan( parsePostTime(res.body) )
+      
+        if( point >= 0 && point < 60*5 ) 
+          cb(err, { point: point, m: getMinutesFromMidnight() });
+        else 
+          cb( new Error( "Point value is out of range: " + point ) );
       })
     }
   });
