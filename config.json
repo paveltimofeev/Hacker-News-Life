@@ -5,7 +5,7 @@
 	],
 	"storage" : "http://localhost:3004/points/",
 	"info" : "http://localhost:3004/info/",
-	"interval" : 60000,
+	"interval" : 55000,
   "dbFile": "db.json",
   "publishRetryDelay": 1000,
   "publishMaxRetries": 3,
