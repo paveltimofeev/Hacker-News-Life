@@ -102,6 +102,7 @@ jQuery(function($) {
               }
           );
       
+        /*
       $(chartId)
           .sparkline(
                data.map(function(v){ return v.id != latest ? 0 : 60  }),
@@ -115,6 +116,7 @@ jQuery(function($) {
                 tooltipFormat: '' 
               }
           );
+        */
     }
     
     $.getJSON( chartData)
