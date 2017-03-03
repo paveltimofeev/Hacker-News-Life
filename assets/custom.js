@@ -65,11 +65,14 @@ jQuery(function($) {
             
             function setInfo( val, mmd ){
                 
-              var h = Math.floor(mmd / 60);
-              var h_ = h + offset < 0 ? 24 + h + offset : h + offset;
-              var m = mmd - 60 * h;
-              var time = h_ + (m < 10 ? ':0' : ':') + m;
-              $(infoId).text(val + ' min at ' + time + timezone);
+              var d = new Date(0);
+              d.setMinutes(mmd);
+              var m = d.getMinutes();
+              var h = d.getHours();
+
+              if( m < 10 ) m = '0' + m;
+              if( h < 10 ) h = '0' + h;
+              $(infoId).text( val + ' min at ' + h + ':' + m + timezone );
             }
               
             setInfo( region.y, region.x );
