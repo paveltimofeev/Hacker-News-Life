@@ -7,7 +7,7 @@
 	"info" : "http://localhost:3004/info/",
 	"interval" : 55000,
   "dbFile": "db.json",
-  "publishRetryDelay": 1000,
+  "publishRetryDelay": 10000,
   "publishMaxRetries": 3,
   "backet": "research.patico.pro",
   "backetFolder": "data/hacker-news-dev.json"
